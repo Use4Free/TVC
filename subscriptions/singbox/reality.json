@@ -117,8 +117,8 @@
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
                 "🇫🇷FR | 🟢 | vless | @CUSTOMVPNSERVER | 10",
                 "🇮🇪IE | 🟢 | vless | @DailyV2RY | 114",
-                "❔XX | 🔴 | vless | @DailyV2RY | 126",
-                "🇹🇷TR | 🔴 | vless | @DailyV2RY | 127",
+                "🇹🇷TR | 🔴 | vless | @DailyV2RY | 126",
+                "❔XX | 🔴 | vless | @DailyV2RY | 127",
                 "❔XX | 🔴 | vless | @DailyV2RY | 128",
                 "🇬🇧GB | 🔴 | vless | @Capital_NET | 6",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 8",
@@ -141,7 +141,7 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 36",
                 "❔XX | 🔴 | vless | @Capital_NET | 37",
                 "❔XX | 🔴 | vless | @Capital_NET | 39",
-                "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 45",
@@ -185,8 +185,8 @@
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
                 "🇫🇷FR | 🟢 | vless | @CUSTOMVPNSERVER | 10",
                 "🇮🇪IE | 🟢 | vless | @DailyV2RY | 114",
-                "❔XX | 🔴 | vless | @DailyV2RY | 126",
-                "🇹🇷TR | 🔴 | vless | @DailyV2RY | 127",
+                "🇹🇷TR | 🔴 | vless | @DailyV2RY | 126",
+                "❔XX | 🔴 | vless | @DailyV2RY | 127",
                 "❔XX | 🔴 | vless | @DailyV2RY | 128",
                 "🇬🇧GB | 🔴 | vless | @Capital_NET | 6",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 8",
@@ -209,7 +209,7 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 36",
                 "❔XX | 🔴 | vless | @Capital_NET | 37",
                 "❔XX | 🔴 | vless | @Capital_NET | 39",
-                "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 45",
@@ -612,7 +612,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 126",
+            "tag": "🇹🇷TR | 🔴 | vless | @DailyV2RY | 126",
             "type": "vless",
             "server": "kill-down.poshakbany.ir",
             "server_port": 41918,
@@ -648,7 +648,7 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🔴 | vless | @DailyV2RY | 127",
+            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 127",
             "type": "vless",
             "server": "vipch-ipp.poshakbany.ir",
             "server_port": 41918,
@@ -1357,7 +1357,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 41",
             "type": "vless",
             "server": "194.5.97.158",
             "server_port": 443,
