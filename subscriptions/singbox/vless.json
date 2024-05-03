@@ -196,7 +196,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 8",
                 "❔XX | 🔴 | vless | @melov2ray | 9",
                 "🇩🇪DE | 🔴 | vless | @melov2ray | 12",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 13",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 14",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 18",
                 "🇨🇼CW | 🔴 | vless | @V2pedia | 19",
@@ -560,7 +560,7 @@
                 "🚩CF | 🔴 | vless | @V2RayTz | 5",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 6",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 7",
-                "TVCxxypoqdvlc",
+                "TVCxmuaqgibzr",
                 "🚩CF | 🔴 | vless | @V2RayTz | 10",
                 "🚩CF | 🔴 | vless | @V2RayTz | 11",
                 "🚩CF | 🔴 | vless | @V2RayTz | 12",
@@ -873,7 +873,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 8",
                 "❔XX | 🔴 | vless | @melov2ray | 9",
                 "🇩🇪DE | 🔴 | vless | @melov2ray | 12",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 13",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 14",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 18",
                 "🇨🇼CW | 🔴 | vless | @V2pedia | 19",
@@ -1237,7 +1237,7 @@
                 "🚩CF | 🔴 | vless | @V2RayTz | 5",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 6",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 7",
-                "TVCxxypoqdvlc",
+                "TVCxmuaqgibzr",
                 "🚩CF | 🔴 | vless | @V2RayTz | 10",
                 "🚩CF | 🔴 | vless | @V2RayTz | 11",
                 "🚩CF | 🔴 | vless | @V2RayTz | 12",
@@ -3698,7 +3698,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 13",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -12430,7 +12430,7 @@
             }
         },
         {
-            "tag": "TVCxxypoqdvlc",
+            "tag": "TVCxmuaqgibzr",
             "type": "vless",
             "server": "",
             "server_port": 0,

@@ -94,7 +94,7 @@ vless://6dbf1613-1fbc-4c11-865a-ad5fe74d22da@142.132.189.159:8443?allowInsecure=
 vless://00ba09be-b38c-4780-968e-010168a7dc02@chat.openai.com:8080?type=ws&path=/melov2ray&host=de.过滤器.store.&security=none#🇺🇸US | 🔴 | vless | @melov2ray | 8
 vless://25610350-9658-44a0-8e60-e02dd8a33551@help.melov2ray.shop:443?type=ws&path=/melov2ray&security=tls&fp=chrome&alpn=http/1.1,h2&sni=help.melov2ray.shop#❔XX | 🔴 | vless | @melov2ray | 9
 vless://15b49a69-013f-4c64-9a64-aac0fcbc63bd@142.132.189.159:8443?allowInsecure=false&fp=firefox&pbk=ImnVH3mK86iRKeSSANgSeUd7TeP-_cuiRkdu8PD8kAo&security=reality&serviceName=melov2ray&sid=32fd2962&sni=discord.com&spx=/&type=grpc#🇩🇪DE | 🔴 | vless | @melov2ray | 12
-vless://98d284ea-e611-4266-b3a9-3652b1a0fe9e@chat.openai.com:8080?type=ws&path=/melov2ray&host=de.过滤器.store.&security=none#🇨🇦CA | 🔴 | vless | @melov2ray | 13
+vless://98d284ea-e611-4266-b3a9-3652b1a0fe9e@chat.openai.com:8080?type=ws&path=/melov2ray&host=de.过滤器.store.&security=none#🇺🇸US | 🔴 | vless | @melov2ray | 13
 vless://ce1a4b20-f9a1-4aba-8ae3-d6066ff154d9@help.melov2ray.shop:443?type=ws&path=/melov2ray&security=tls&fp=chrome&alpn=http/1.1,h2&sni=help.melov2ray.shop#❔XX | 🔴 | vless | @melov2ray | 14
 vless://e1a5cc95-a43b-4cb9-93ce-16f2bdaf49d6@discord.gg.:2095?path=/ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON&security=none&encryption=none&host=a.らわなさ.tech.&type=ws#🇨🇦CA | 🔴 | vless | @V2pedia | 18
 vless://e1a5cc95-a43b-4cb9-93ce-16f2bdaf49d6@slotwolf1.com.:2095?path=/ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON&security=none&encryption=none&host=a.らわなさ.tech.&type=ws#🇨🇼CW | 🔴 | vless | @V2pedia | 19
@@ -466,7 +466,7 @@ vless://Parsashonam-61@104.18.32.69:8080?Telegram=@V2RayTz,@V2RayTz&path=/&secur
 vless://9957994d-833a-46b9-8e55-b3274e3fc75a@188.114.96.0:2095?Telegram=@V2RayTz,@V2RayTz&path=/&security=none&encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🚩CF | 🔴 | vless | @V2RayTz | 5
 vless://1d5b4fe1-b5d1-4743-b35e-e889181a6db3@185.146.173.32:2095?Telegram=@V2RayTz,@V2RayTz&path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @V2RayTz | 6
 vless://cb419a73-ac0b-4ee5-9625-cfb7b6d920bf@185.146.173.94:8880?Telegram=@V2RayTz,@V2RayTz&path=/@LIGHTNING6#🇸🇪SE | 🔴 | vless | @V2RayTz | 7
-vless://#TVCpbjrvzyuhv
+vless://#TVCofvhfysqii
 vless://91f9d58c-f847-49eb-b65f-79fefd3b6d9c@104.21.232.99:8443?Telegram=@V2RayTz,@V2RayTz&type=ws&security=tls&path=/&host=unlimiteddev.xn--9iqr0tm1r4wg.co&fp=chrome&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#🚩CF | 🔴 | vless | @V2RayTz | 10
 vless://0a3b3b34-77ab-4119-8537-9a8ea5b0512c@104.21.232.99:80?Telegram=@V2RayTz,@V2RayTz&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=2048&security=none#🚩CF | 🔴 | vless | @V2RayTz | 11
 vless://0a3b3b34-77ab-4119-8537-9a8ea5b0512c@104.17.169.114:80?Telegram=@V2RayTz,@V2RayTz&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=1024&security=none#🚩CF | 🔴 | vless | @V2RayTz | 12
