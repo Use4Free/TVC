@@ -188,13 +188,13 @@
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 15",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 16",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 17",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @melov2ray | 2",
                 "🇩🇪DE | 🔴 | vless | @melov2ray | 4",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 5",
                 "❔XX | 🔴 | vless | @melov2ray | 6",
                 "🇩🇪DE | 🔴 | vless | @melov2ray | 9",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 10",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
                 "❔XX | 🔴 | vless | @melov2ray | 11",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 18",
                 "🇨🇼CW | 🔴 | vless | @V2pedia | 19",
@@ -728,7 +728,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 22",
                 "❔XX | 🔴 | vless | @vpn_go67 | 23",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 0",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 2",
+                "❔XX | 🔴 | vless | @kingofilter | 2",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 5",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 0",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 2",
@@ -874,13 +874,13 @@
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 15",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 16",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 17",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @melov2ray | 2",
                 "🇩🇪DE | 🔴 | vless | @melov2ray | 4",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 5",
                 "❔XX | 🔴 | vless | @melov2ray | 6",
                 "🇩🇪DE | 🔴 | vless | @melov2ray | 9",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 10",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
                 "❔XX | 🔴 | vless | @melov2ray | 11",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 18",
                 "🇨🇼CW | 🔴 | vless | @V2pedia | 19",
@@ -1414,7 +1414,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 22",
                 "❔XX | 🔴 | vless | @vpn_go67 | 23",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 0",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 2",
+                "❔XX | 🔴 | vless | @kingofilter | 2",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 5",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 0",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 2",
@@ -1559,7 +1559,7 @@
         {
             "tag": "🚩CF | 🔴 | vless | @EliV2ray | 5",
             "type": "vless",
-            "server": "104.16.191.21",
+            "server": "172.64.175.221",
             "server_port": 80,
             "uuid": "d1d22e98-a586-4448-8824-c90ee36f1d46",
             "flow": "",
@@ -1573,7 +1573,7 @@
                 "type": "ws",
                 "path": "\/telegram-@EliV2ray,telegram-@EliV2ray,telegram-@EliV2ray,telegram-@EliV2ray?ed=80",
                 "headers": {
-                    "Host": "104.16.191.21"
+                    "Host": "172.64.175.221"
                 }
             }
         },
@@ -3495,7 +3495,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -3671,7 +3671,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -17035,7 +17035,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 2",
+            "tag": "❔XX | 🔴 | vless | @kingofilter | 2",
             "type": "vless",
             "server": "all.poloo.ir",
             "server_port": 8880,
