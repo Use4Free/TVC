@@ -194,7 +194,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 5",
                 "❔XX | 🔴 | vless | @melov2ray | 6",
                 "🇩🇪DE | 🔴 | vless | @melov2ray | 9",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 10",
                 "❔XX | 🔴 | vless | @melov2ray | 11",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 18",
                 "🇨🇼CW | 🔴 | vless | @V2pedia | 19",
@@ -518,6 +518,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 17",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 18",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 19",
+                "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 20",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 21",
                 "🇮🇷IR | 🔴 | vless | @proxyymeliii | 0",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 2",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 3",
@@ -726,7 +728,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 22",
                 "❔XX | 🔴 | vless | @vpn_go67 | 23",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 0",
-                "❔XX | 🔴 | vless | @kingofilter | 2",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 2",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 5",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 0",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 2",
@@ -878,7 +880,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 5",
                 "❔XX | 🔴 | vless | @melov2ray | 6",
                 "🇩🇪DE | 🔴 | vless | @melov2ray | 9",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 10",
                 "❔XX | 🔴 | vless | @melov2ray | 11",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 18",
                 "🇨🇼CW | 🔴 | vless | @V2pedia | 19",
@@ -1202,6 +1204,8 @@
                 "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 17",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 18",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 19",
+                "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 20",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 21",
                 "🇮🇷IR | 🔴 | vless | @proxyymeliii | 0",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 2",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 3",
@@ -1410,7 +1414,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 22",
                 "❔XX | 🔴 | vless | @vpn_go67 | 23",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 0",
-                "❔XX | 🔴 | vless | @kingofilter | 2",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 2",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 5",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 0",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 2",
@@ -3667,7 +3671,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 10",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -11477,6 +11481,48 @@
             }
         },
         {
+            "tag": "🇸🇪SE | 🔴 | vless | @v2ray_swhil | 20",
+            "type": "vless",
+            "server": "forward3.maryam1700.com",
+            "server_port": 2082,
+            "uuid": "24347e96-912c-4f53-9c67-9cc895fc6fdf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "forward3.maryam1700.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 21",
+            "type": "vless",
+            "server": "discord.gg",
+            "server_port": 80,
+            "uuid": "cb87def4-e2fd-4da1-a2ec-57ff2120fd9b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "discord.gg"
+                }
+            }
+        },
+        {
             "tag": "🇮🇷IR | 🔴 | vless | @proxyymeliii | 0",
             "type": "vless",
             "server": "vip3.needvip-s.com",
@@ -16989,7 +17035,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kingofilter | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 2",
             "type": "vless",
             "server": "all.poloo.ir",
             "server_port": 8880,
