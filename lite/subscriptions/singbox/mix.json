@@ -121,7 +121,7 @@
                 "❔XX | 🔴 | vless | @melov2ray | 11",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 56",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 57",
-                "❔XX | 🔴 | vless | @frev2ray | 9",
+                "🇬🇧GB | 🔴 | vless | @frev2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @frev2ray | 10",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 18",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 19",
@@ -264,7 +264,7 @@
                 "❔XX | 🔴 | vless | @melov2ray | 11",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 56",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 57",
-                "❔XX | 🔴 | vless | @frev2ray | 9",
+                "🇬🇧GB | 🔴 | vless | @frev2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @frev2ray | 10",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 18",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 19",
@@ -783,7 +783,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @frev2ray | 9",
+            "tag": "🇬🇧GB | 🔴 | vless | @frev2ray | 9",
             "type": "vless",
             "server": "kalafmobile.varzon-pc3.GAMErme.IR",
             "server_port": 443,
