@@ -135,8 +135,8 @@
                 "🇺🇸US | 🔴 | vless | @vpn_xw | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 13",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 14",
-                "🇸🇪SE | 🔴 | vless | @DigiV2ray | 22",
-                "🇨🇦CA | 🔴 | vless | @DigiV2ray | 23",
+                "🇸🇪SE | 🔴 | vless | @DigiV2ray | 24",
+                "🇨🇦CA | 🔴 | vless | @DigiV2ray | 25",
                 "🇺🇸US | 🔴 | vless | @v2logy | 14",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 1",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
@@ -161,7 +161,7 @@
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6",
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 7",
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 19",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 20",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 20",
                 "🇮🇷IR | 🔴 | vless | @proxyymeliii | 31",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 32",
                 "🇸🇪SE | 🔴 | vless | @MsV2ray | 8",
@@ -193,6 +193,8 @@
                 "🇸🇪SE | 🔴 | vless | @Capoit | 14",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 2",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 18",
+                "🇸🇪SE | 🔴 | vless | @flyv2ray | 19",
                 "🇸🇪SE | 🔴 | vless | @mehrosaboran | 5",
                 "🇨🇷CR | 🔴 | vless | @mehrosaboran | 6",
                 "🇩🇪DE | 🔴 | vless | @kiava | 5",
@@ -250,8 +252,8 @@
                 "🇺🇸US | 🔴 | vless | @vpn_xw | 0",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 13",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 14",
-                "🇸🇪SE | 🔴 | vless | @DigiV2ray | 22",
-                "🇨🇦CA | 🔴 | vless | @DigiV2ray | 23",
+                "🇸🇪SE | 🔴 | vless | @DigiV2ray | 24",
+                "🇨🇦CA | 🔴 | vless | @DigiV2ray | 25",
                 "🇺🇸US | 🔴 | vless | @v2logy | 14",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 1",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
@@ -276,7 +278,7 @@
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6",
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 7",
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 19",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 20",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 20",
                 "🇮🇷IR | 🔴 | vless | @proxyymeliii | 31",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 32",
                 "🇸🇪SE | 🔴 | vless | @MsV2ray | 8",
@@ -308,6 +310,8 @@
                 "🇸🇪SE | 🔴 | vless | @Capoit | 14",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 2",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 18",
+                "🇸🇪SE | 🔴 | vless | @flyv2ray | 19",
                 "🇸🇪SE | 🔴 | vless | @mehrosaboran | 5",
                 "🇨🇷CR | 🔴 | vless | @mehrosaboran | 6",
                 "🇩🇪DE | 🔴 | vless | @kiava | 5",
@@ -1067,7 +1071,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @DigiV2ray | 22",
+            "tag": "🇸🇪SE | 🔴 | vless | @DigiV2ray | 24",
             "type": "vless",
             "server": "185.146.173.59",
             "server_port": 80,
@@ -1088,7 +1092,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @DigiV2ray | 23",
+            "tag": "🇨🇦CA | 🔴 | vless | @DigiV2ray | 25",
             "type": "vless",
             "server": "www.Speedtest.Net",
             "server_port": 80,
@@ -1696,7 +1700,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 20",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 20",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -2493,6 +2497,48 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 18",
+            "type": "vless",
+            "server": "zula.ir",
+            "server_port": 8080,
+            "uuid": "04d58238-5800-482a-99b4-329f3bb126eb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/t.me\/V2rayFa-V2rayng-v2rayNgfree-telegram-t.me\/V2rayfa_telegram",
+                "headers": {
+                    "Host": "zula.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @flyv2ray | 19",
+            "type": "vless",
+            "server": "CUSTOMIZEV2ray.V2ray.motorcycles",
+            "server_port": 2095,
+            "uuid": "1436ec94-4d33-4931-8a18-ed43a2a7d11d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/V2rayCUSTOMIZE?ed=1024",
+                "headers": {
+                    "Host": "CUSTOMIZEV2ray.V2ray.motorcycles"
+                }
             }
         },
         {
