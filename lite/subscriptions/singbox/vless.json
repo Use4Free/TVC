@@ -170,7 +170,7 @@
                 "🇮🇷IR | 🔴 | vless | @proxyymeliii | 32",
                 "🇸🇪SE | 🔴 | vless | @MsV2ray | 7",
                 "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 7",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
+                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 8",
                 "🇮🇷IR | 🔴 | vless | @vless_vmess | 10",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 14",
@@ -294,7 +294,7 @@
                 "🇮🇷IR | 🔴 | vless | @proxyymeliii | 32",
                 "🇸🇪SE | 🔴 | vless | @MsV2ray | 7",
                 "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 7",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
+                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 8",
                 "🇮🇷IR | 🔴 | vless | @vless_vmess | 10",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 14",
@@ -1956,7 +1956,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 8",
             "type": "vless",
             "server": "104.26.15.16",
             "server_port": 443,
