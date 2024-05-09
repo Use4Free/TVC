@@ -186,7 +186,7 @@
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 12",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 12",
                 "❔XX | 🔴 | vless | @melov2ray | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 15",
@@ -995,7 +995,7 @@
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 12",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 12",
                 "❔XX | 🔴 | vless | @melov2ray | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 14",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 15",
@@ -3673,7 +3673,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 12",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
