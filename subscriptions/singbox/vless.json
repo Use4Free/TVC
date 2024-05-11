@@ -183,7 +183,7 @@
                 "🚩CF | 🔴 | vless | @ipV2Ray | 12",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 3",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 6",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
@@ -200,7 +200,7 @@
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 21",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 22",
                 "❔XX | 🔴 | vless | @V2pedia | 23",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 24",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 24",
                 "🇨🇼CW | 🔴 | vless | @V2pedia | 25",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 26",
                 "❔XX | 🔴 | vless | @V2pedia | 27",
@@ -859,7 +859,7 @@
                 "🚩CF | 🔴 | vless | @ipV2Ray | 12",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 3",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 6",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
@@ -876,7 +876,7 @@
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 21",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 22",
                 "❔XX | 🔴 | vless | @V2pedia | 23",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 24",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 24",
                 "🇨🇼CW | 🔴 | vless | @V2pedia | 25",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 26",
                 "❔XX | 🔴 | vless | @V2pedia | 27",
@@ -3317,7 +3317,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 6",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -3749,7 +3749,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 24",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 24",
             "type": "vless",
             "server": "discord.gg.",
             "server_port": 2095,
