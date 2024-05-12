@@ -188,9 +188,9 @@
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 2",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 4",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 9",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 10",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 6",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 9",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
                 "❔XX | 🔴 | vless | @V2pedia | 12",
                 "🇳🇱NL | 🔴 | vless | @V2pedia | 13",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 14",
@@ -871,9 +871,9 @@
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 2",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 4",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 9",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 10",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 6",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 9",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
                 "❔XX | 🔴 | vless | @V2pedia | 12",
                 "🇳🇱NL | 🔴 | vless | @V2pedia | 13",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 14",
@@ -3428,7 +3428,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 6",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -3449,7 +3449,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 9",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -3470,7 +3470,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 10",
             "type": "vless",
             "server": "ch.melobigg.site",
             "server_port": 443,
