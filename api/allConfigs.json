@@ -4182,6 +4182,24 @@
             "logo": null
         },
         "type": "vless",
+        "config": "vless:\/\/289a3746-327f-468f-a874-6c16493f2cdb@162.159.134.234:8080?path=%2F&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@ServerNett%20|%2020"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
+        "config": "vless:\/\/a8678b19-5d3d-45d0-ba00-5e091fde9c53@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@ServerNett%20|%2021"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
         "config": "vless:\/\/5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?path=%2FpMvX7CjCUbfPC1X1%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=BiA-pAIN-bACHE.pAges.DEv&fp=randomized&type=ws&sni=BIa-pAIN-bAche.PagEs.DeV#🚩CF%20|%20🔴%20|%20vless%20|%20@Proxy_PJ%20|%200"
     },
     {

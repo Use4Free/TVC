@@ -403,6 +403,8 @@ proxies:
   - {"name":"🇸🇪SE | 🔴 | vless | @ServerNett | 17","type":"vless","server":"185.146.173.59","port":8080,"udp":false,"uuid":"0ccb48ee-612f-4a55-b853-a85b62f0c8bd","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"hahaha.servernet.fun."}}}
   - {"name":"🚩CF | 🔴 | vless | @ServerNett | 18","type":"vless","server":"162.159.134.234","port":8080,"udp":false,"uuid":"c57ce5ca-21c7-44fb-8961-0b7a8ab3f8e4","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"hrtv.numall.xyz."}}}
   - {"name":"🇸🇪SE | 🔴 | vless | @ServerNett | 19","type":"vless","server":"185.146.173.59","port":8080,"udp":false,"uuid":"65fa61d7-559c-4bd2-b41f-916e624731da","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"hahaha.servernet.fun."}}}
+  - {"name":"🚩CF | 🔴 | vless | @ServerNett | 20","type":"vless","server":"162.159.134.234","port":8080,"udp":false,"uuid":"289a3746-327f-468f-a874-6c16493f2cdb","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"hrtv.numall.xyz."}}}
+  - {"name":"🇸🇪SE | 🔴 | vless | @ServerNett | 21","type":"vless","server":"185.146.173.59","port":8080,"udp":false,"uuid":"a8678b19-5d3d-45d0-ba00-5e091fde9c53","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"hahaha.servernet.fun."}}}
   - {"name":"🚩CF | 🔴 | vless | @Proxy_PJ | 0","type":"vless","server":"104.16.54.150","port":443,"udp":false,"uuid":"5007dc3f-0270-4ed8-a210-1a1d7952756d","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"BIa-pAIN-bAche.PagEs.DeV","ws-opts":{"path":"/pMvX7CjCUbfPC1X1?ed=2560","headers":{"host":"BiA-pAIN-bACHE.pAges.DEv"}}}
   - {"name":"❔XX | 🔴 | vless | @Qv2rayDONATED | 0","type":"vless","server":"5c83f238db0ab9243ee8a35b54f54c173915ee1.nv2ron.ir","port":443,"udp":false,"uuid":"463244ed-b939-4451-9cb0-48059c7ffbdf","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"5C83f238Db0ab9243ee8A35b54F54c173915ee1.nv2rON.ir","ws-opts":{"path":"/@Qv2raychannel/@Qv2raychannel/@Qv2raychannel/@Qv2raychannel/@Qv2raychannel/?ed=2048","headers":{"host":"5c83f238db0ab9243ee8a35b54f54c173915ee1.nv2ron.ir"}}}
   - {"name":"❔XX | 🔴 | vless | @Qv2rayDONATED | 1","type":"vless","server":"substest.nekohanaku.ru.eu.org","port":2053,"udp":false,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"substest.nekohanaku.ru.eu.org","ws-opts":{"path":"/@Qv2raychannel/@Qv2raychannel/@Qv2raychannel/@Qv2raychannel/@Qv2raychannel/?ed=2048","headers":{"host":"substest.nekohanaku.ru.eu.org"}}}
@@ -927,6 +929,8 @@ proxy-groups:
       - '🇸🇪SE | 🔴 | vless | @ServerNett | 17'
       - '🚩CF | 🔴 | vless | @ServerNett | 18'
       - '🇸🇪SE | 🔴 | vless | @ServerNett | 19'
+      - '🚩CF | 🔴 | vless | @ServerNett | 20'
+      - '🇸🇪SE | 🔴 | vless | @ServerNett | 21'
       - '🚩CF | 🔴 | vless | @Proxy_PJ | 0'
       - '❔XX | 🔴 | vless | @Qv2rayDONATED | 0'
       - '❔XX | 🔴 | vless | @Qv2rayDONATED | 1'
@@ -1451,6 +1455,8 @@ proxy-groups:
       - '🇸🇪SE | 🔴 | vless | @ServerNett | 17'
       - '🚩CF | 🔴 | vless | @ServerNett | 18'
       - '🇸🇪SE | 🔴 | vless | @ServerNett | 19'
+      - '🚩CF | 🔴 | vless | @ServerNett | 20'
+      - '🇸🇪SE | 🔴 | vless | @ServerNett | 21'
       - '🚩CF | 🔴 | vless | @Proxy_PJ | 0'
       - '❔XX | 🔴 | vless | @Qv2rayDONATED | 0'
       - '❔XX | 🔴 | vless | @Qv2rayDONATED | 1'
@@ -1974,6 +1980,8 @@ proxy-groups:
       - '🇸🇪SE | 🔴 | vless | @ServerNett | 17'
       - '🚩CF | 🔴 | vless | @ServerNett | 18'
       - '🇸🇪SE | 🔴 | vless | @ServerNett | 19'
+      - '🚩CF | 🔴 | vless | @ServerNett | 20'
+      - '🇸🇪SE | 🔴 | vless | @ServerNett | 21'
       - '🚩CF | 🔴 | vless | @Proxy_PJ | 0'
       - '❔XX | 🔴 | vless | @Qv2rayDONATED | 0'
       - '❔XX | 🔴 | vless | @Qv2rayDONATED | 1'
