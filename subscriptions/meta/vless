@@ -157,7 +157,7 @@ proxies:
   - {"name":"🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 10","type":"vless","server":"188.114.98.224","port":2095,"udp":false,"uuid":"b5484088-cefc-43a1-943f-a99706fc3c0c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/V2rayCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE?ed=1024","headers":{"host":"V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com."}}}
   - {"name":"🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 11","type":"vless","server":"Channel-VPNCUSTOMIZE.V2ray.motorcycles","port":2095,"udp":false,"uuid":"b5484088-cefc-43a1-943f-a99706fc3c0c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/V2rayCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE?ed=1024","headers":{"host":"V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com."}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @melov2ray | 0","type":"vless","server":"discord.com","port":8080,"udp":false,"uuid":"f12a7728-ab1b-4d88-a71c-deb8f0bcc4f3","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray","headers":{"host":"de2.过滤器.store."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @melov2ray | 1","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"f12a7728-ab1b-4d88-a71c-deb8f0bcc4f3","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray","headers":{"host":"cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.bazaar.ir.nokia.apple.google.dontbow.store."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @melov2ray | 1","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"f12a7728-ab1b-4d88-a71c-deb8f0bcc4f3","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray","headers":{"host":"cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.bazaar.ir.nokia.apple.google.dontbow.store."}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @melov2ray | 3","type":"vless","server":"chat.openai.com","port":8080,"udp":false,"uuid":"65855cda-b08a-4738-9c5c-9588fc91f68e","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray","headers":{"host":"de.过滤器.store."}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @melov2ray | 4","type":"vless","server":"www.speedtest.net","port":8080,"udp":false,"uuid":"65855cda-b08a-4738-9c5c-9588fc91f68e","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray","headers":{"host":"cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.bazaar.ir.dontbow.store."}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @melov2ray | 6","type":"vless","server":"www.speedtest.net","port":8080,"udp":false,"uuid":"eda75c45-39ba-4637-8332-88f741eaf5e3","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray","headers":{"host":"cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.bazaar.ir.dontbow.store."}}}
@@ -667,7 +667,7 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 10'
       - '🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 11'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 0'
-      - '🇺🇸US | 🔴 | vless | @melov2ray | 1'
+      - '🇨🇦CA | 🔴 | vless | @melov2ray | 1'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 3'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 4'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 6'
@@ -1177,7 +1177,7 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 10'
       - '🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 11'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 0'
-      - '🇺🇸US | 🔴 | vless | @melov2ray | 1'
+      - '🇨🇦CA | 🔴 | vless | @melov2ray | 1'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 3'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 4'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 6'
@@ -1686,7 +1686,7 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 10'
       - '🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 11'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 0'
-      - '🇺🇸US | 🔴 | vless | @melov2ray | 1'
+      - '🇨🇦CA | 🔴 | vless | @melov2ray | 1'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 3'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 4'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 6'
