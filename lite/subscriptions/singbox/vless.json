@@ -126,8 +126,8 @@
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 21",
                 "🇨🇦CA | 🔴 | vless | @shh_proxy | 28",
                 "🇸🇪SE | 🔴 | vless | @shh_proxy | 29",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 13",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 14",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 16",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 9",
                 "🇸🇪SE | 🔴 | vless | @lightning6 | 17",
                 "🇩🇪DE | 🔴 | vless | @V2rayNGmat | 5",
@@ -137,6 +137,7 @@
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 15",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 16",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
@@ -146,8 +147,8 @@
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 2",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 30",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 31",
+                "🇮🇷IR | 🔴 | vless | @Outline_Vpn | 16",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
                 "🇨🇦CA | 🔴 | vless | @prrofile_purple | 194",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 195",
                 "🇸🇪SE | 🔴 | vless | @customv2ray | 10",
@@ -243,8 +244,8 @@
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 21",
                 "🇨🇦CA | 🔴 | vless | @shh_proxy | 28",
                 "🇸🇪SE | 🔴 | vless | @shh_proxy | 29",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 13",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 14",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 16",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
                 "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 9",
                 "🇸🇪SE | 🔴 | vless | @lightning6 | 17",
                 "🇩🇪DE | 🔴 | vless | @V2rayNGmat | 5",
@@ -254,6 +255,7 @@
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 14",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 15",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 16",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
@@ -263,8 +265,8 @@
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 2",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 30",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 31",
+                "🇮🇷IR | 🔴 | vless | @Outline_Vpn | 16",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
                 "🇨🇦CA | 🔴 | vless | @prrofile_purple | 194",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 195",
                 "🇸🇪SE | 🔴 | vless | @customv2ray | 10",
@@ -809,11 +811,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 13",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 16",
             "type": "vless",
-            "server": "104.18.121.44",
-            "server_port": 80,
-            "uuid": "435bda4c-fe5e-42c9-a3ad-15334943b38a",
+            "server": "104.31.16.65",
+            "server_port": 443,
+            "uuid": "5d8569a9-a8cb-4c5e-9ea9-cc40de873a35",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -821,20 +823,30 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "filTer-1tg.pAges.DeV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/lockey_vpn",
                 "headers": {
-                    "Host": "104.18.121.44"
+                    "Host": "filTer-1tg.pAges.DeV"
                 }
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
-            "server": "104.18.202.232",
-            "server_port": 80,
-            "uuid": "c8aa3dce-77b8-4cca-b313-89ce5c015137",
+            "server": "104.31.16.65",
+            "server_port": 443,
+            "uuid": "5d8569a9-a8cb-4c5e-9ea9-cc40de873a35",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -842,11 +854,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "filTer-1tg.pAges.DeV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/xmrdark",
+                "path": "\/?ed=2047",
                 "headers": {
-                    "Host": "104.18.202.232"
+                    "Host": "filTer-1tg.pAges.DeV"
                 }
             }
         },
@@ -1076,6 +1098,27 @@
             }
         },
         {
+            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "e40d8272-abb6-451c-eddd-4f69cf3cec0e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/V2ray",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @v2logy | 15",
             "type": "vless",
             "server": "blockchain-explorer.win7bitcasino1.com.",
@@ -1275,6 +1318,20 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🔴 | vless | @Outline_Vpn | 16",
+            "type": "vless",
+            "server": "94.182.136.69",
+            "server_port": 37016,
+            "uuid": "435b2af1-e725-482f-b95e-ae4786e39a78",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 17",
             "type": "vless",
             "server": "198.41.198.76",
@@ -1302,37 +1359,6 @@
                 "path": "\/?ed",
                 "headers": {
                     "Host": "jd.wxgqlfx.top"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "ba04bcf2-2153-4c55-ac6b-4b44f66dde19",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "garywelch.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "garywelch.pages.dev"
                 }
             }
         },
