@@ -182,7 +182,7 @@
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 8",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 9",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 0",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 2",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 3",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 4",
@@ -191,10 +191,10 @@
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 8",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 14",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 15",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 16",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 15",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 16",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 17",
-                "🇨🇷CR | 🔴 | vless | @V2pedia | 19",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 19",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 20",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 21",
                 "❔XX | 🔴 | vless | @V2pedia | 22",
@@ -848,7 +848,7 @@
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 8",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 9",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 0",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 2",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 3",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 4",
@@ -857,10 +857,10 @@
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 8",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 14",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 15",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 16",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 15",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 16",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 17",
-                "🇨🇷CR | 🔴 | vless | @V2pedia | 19",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 19",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 20",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 21",
                 "❔XX | 🔴 | vless | @V2pedia | 22",
@@ -3282,7 +3282,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8080,
@@ -3486,7 +3486,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 15",
             "type": "vless",
             "server": "analytics-cn.elephant-tech.xyz.",
             "server_port": 80,
@@ -3507,7 +3507,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 16",
             "type": "vless",
             "server": "discord.com.",
             "server_port": 80,
@@ -3549,7 +3549,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | 🔴 | vless | @V2pedia | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 19",
             "type": "vless",
             "server": "zedmodeon.baby.dedyn.io.",
             "server_port": 2095,
