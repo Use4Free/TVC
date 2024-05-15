@@ -194,8 +194,8 @@
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 15",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 16",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 17",
-                "🇨🇷CR | 🔴 | vless | @V2pedia | 19",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 20",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 19",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 20",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 21",
                 "❔XX | 🔴 | vless | @V2pedia | 22",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 23",
@@ -860,8 +860,8 @@
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 15",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 16",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 17",
-                "🇨🇷CR | 🔴 | vless | @V2pedia | 19",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 20",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 19",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 20",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 21",
                 "❔XX | 🔴 | vless | @V2pedia | 22",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 23",
@@ -3549,7 +3549,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | 🔴 | vless | @V2pedia | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 19",
             "type": "vless",
             "server": "zedmodeon.baby.dedyn.io.",
             "server_port": 2095,
@@ -3570,7 +3570,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 20",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 20",
             "type": "vless",
             "server": "discord.com.",
             "server_port": 2095,
