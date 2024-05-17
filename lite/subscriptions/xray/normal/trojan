@@ -8,4 +8,4 @@ trojan://telegram-id-privatevpns@35.181.208.211:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@13.36.88.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19
 trojan://telegram-id-directvpn@18.193.198.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 17
 trojan://telegram-id-directvpn@13.50.253.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 18
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#🇨🇦CA | 🔴 | trojan | @kingofilter | 0
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#🇺🇸US | 🔴 | trojan | @kingofilter | 0
