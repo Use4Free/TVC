@@ -141,7 +141,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 15",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 0",
                 "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 1",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 30",
@@ -150,7 +150,7 @@
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 16",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 196",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 197",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 12",
+                "🇨🇦CA | 🔴 | vless | @customv2ray | 12",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 8",
                 "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 9",
@@ -263,7 +263,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 15",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 0",
                 "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 1",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 30",
@@ -272,7 +272,7 @@
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 16",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 196",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 197",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 12",
+                "🇨🇦CA | 🔴 | vless | @customv2ray | 12",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 8",
                 "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 9",
@@ -1166,7 +1166,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8080,
@@ -1375,7 +1375,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 12",
+            "tag": "🇨🇦CA | 🔴 | vless | @customv2ray | 12",
             "type": "vless",
             "server": "www.zula.ir",
             "server_port": 80,
