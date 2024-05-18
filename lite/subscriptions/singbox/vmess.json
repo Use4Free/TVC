@@ -110,6 +110,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 19",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
+                "🇸🇪SE | 🟢 | vmess | @v2ray1_ng | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇷🇺RU | 🟢 | vmess | @Hope_Net | 1",
@@ -128,6 +129,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 19",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
+                "🇸🇪SE | 🟢 | vmess | @v2ray1_ng | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇷🇺RU | 🟢 | vmess | @Hope_Net | 1",
@@ -239,6 +241,30 @@
                 "path": "\/ivideos.sbs\/linkws",
                 "headers": {
                     "Host": "ep-sunset-9b11.kekic13319.workers.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🟢 | vmess | @v2ray1_ng | 3",
+            "type": "vmess",
+            "server": "185.146.173.237",
+            "server_port": 2052,
+            "uuid": "0c67786d-985e-4c67-a0dc-67827f37f050",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@mehrosaboran",
+                "headers": {
+                    "Host": ""
                 }
             }
         },
