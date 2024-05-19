@@ -194,17 +194,17 @@
                 "❔XX | 🔴 | vless | @V2pedia | 11",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 12",
                 "❔XX | 🔴 | vless | @V2pedia | 13",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 14",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 14",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 15",
                 "❔XX | 🔴 | vless | @V2pedia | 16",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 17",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 17",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 18",
                 "❔XX | 🔴 | vless | @V2pedia | 19",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 20",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 21",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 20",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 21",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 22",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 24",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 25",
+                "🇨🇷CR | 🔴 | vless | @V2pedia | 24",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 25",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 26",
                 "❔XX | 🔴 | vless | @V2pedia | 27",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 28",
@@ -956,17 +956,17 @@
                 "❔XX | 🔴 | vless | @V2pedia | 11",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 12",
                 "❔XX | 🔴 | vless | @V2pedia | 13",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 14",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 14",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 15",
                 "❔XX | 🔴 | vless | @V2pedia | 16",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 17",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 17",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 18",
                 "❔XX | 🔴 | vless | @V2pedia | 19",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 20",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 21",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 20",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 21",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 22",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 24",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 25",
+                "🇨🇷CR | 🔴 | vless | @V2pedia | 24",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 25",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 26",
                 "❔XX | 🔴 | vless | @V2pedia | 27",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 28",
@@ -3830,7 +3830,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 14",
             "type": "vless",
             "server": "discord.com.",
             "server_port": 80,
@@ -3908,7 +3908,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 17",
             "type": "vless",
             "server": "discord.com.",
             "server_port": 2095,
@@ -3986,7 +3986,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 20",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 20",
             "type": "vless",
             "server": "analytics-cn.elephant-tech.xyz.",
             "server_port": 80,
@@ -4007,7 +4007,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 21",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 21",
             "type": "vless",
             "server": "discord.com.",
             "server_port": 80,
@@ -4049,7 +4049,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 24",
+            "tag": "🇨🇷CR | 🔴 | vless | @V2pedia | 24",
             "type": "vless",
             "server": "zedmodeon.baby.dedyn.io.",
             "server_port": 2095,
@@ -4070,7 +4070,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 25",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 25",
             "type": "vless",
             "server": "discord.com.",
             "server_port": 2095,
