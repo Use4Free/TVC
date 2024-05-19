@@ -121,7 +121,7 @@
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇸🇪SE | 🔴 | vless | @v2rayNG_Matsuri | 0",
-                "🇳🇱NL | 🟢 | vless | @ServerNett | 12",
+                "🇳🇱NL | 🟢 | vless | @ServerNett | 14",
                 "🇩🇪DE | 🟢 | vless | @v2ray_swhil | 8",
                 "🇳🇱NL | 🟢 | vless | @DailyV2RY | 113",
                 "❔XX | 🔴 | vless | @DailyV2RY | 122",
@@ -150,7 +150,7 @@
                 "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @kiava | 5",
                 "🇫🇮FI | 🔴 | vless | @vpn_go67 | 7",
                 "🇫🇮FI | 🔴 | vless | @vpn_go67 | 8",
@@ -192,7 +192,7 @@
                 "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇸🇪SE | 🔴 | vless | @v2rayNG_Matsuri | 0",
-                "🇳🇱NL | 🟢 | vless | @ServerNett | 12",
+                "🇳🇱NL | 🟢 | vless | @ServerNett | 14",
                 "🇩🇪DE | 🟢 | vless | @v2ray_swhil | 8",
                 "🇳🇱NL | 🟢 | vless | @DailyV2RY | 113",
                 "❔XX | 🔴 | vless | @DailyV2RY | 122",
@@ -221,7 +221,7 @@
                 "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @kiava | 5",
                 "🇫🇮FI | 🔴 | vless | @vpn_go67 | 7",
                 "🇫🇮FI | 🔴 | vless | @vpn_go67 | 8",
@@ -783,7 +783,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @ServerNett | 12",
+            "tag": "🇳🇱NL | 🟢 | vless | @ServerNett | 14",
             "type": "vless",
             "server": "xeon.realsudo.com",
             "server_port": 8080,
@@ -1666,7 +1666,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
