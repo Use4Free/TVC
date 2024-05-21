@@ -137,10 +137,9 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 17",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 15",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 0",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 30",
@@ -248,10 +247,9 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 17",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 15",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 0",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 30",
@@ -1036,27 +1034,6 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 0",
-            "type": "vless",
-            "server": "172.67.217.107",
-            "server_port": 80,
-            "uuid": "7143e704-5957-42db-bd38-670062722461",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "172.67.217.107"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @v2logy | 15",
             "type": "vless",
             "server": "blockchain-explorer.win7bitcasino1.com.",
@@ -1099,7 +1076,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 18",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8080,
