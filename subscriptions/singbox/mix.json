@@ -674,9 +674,10 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 1",
-                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 2",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
+                "❔XX | 🟢 | vmess | @Hope_Net | 1",
+                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 3",
+                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 4",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 0",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 3",
                 "🇺🇸US | 🔴 | vless | @polproxy | 7",
@@ -1410,9 +1411,10 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 1",
-                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 2",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
+                "❔XX | 🟢 | vmess | @Hope_Net | 1",
+                "🇭🇰HK | 🟢 | vmess | @Hope_Net | 3",
+                "🇳🇱NL | 🟢 | vmess | @Hope_Net | 4",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 0",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 3",
                 "🇺🇸US | 🔴 | vless | @polproxy | 7",
@@ -14964,7 +14966,31 @@
             }
         },
         {
-            "tag": "🇭🇰HK | 🟢 | vmess | @Hope_Net | 1",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 1",
+            "type": "vmess",
+            "server": "pologzcm.3sx.xyz",
+            "server_port": 20002,
+            "uuid": "1a7eec81-ad52-4f88-a578-7b2f09525271",
+            "security": "auto",
+            "alter_id": 1,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/index",
+                "headers": {
+                    "Host": "pologzcm.3sx.xyz"
+                }
+            }
+        },
+        {
+            "tag": "🇭🇰HK | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "18.167.90.167",
             "server_port": 10006,
@@ -14988,7 +15014,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vmess | @Hope_Net | 2",
+            "tag": "🇳🇱NL | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
             "server": "hdfy8d1.cpionline.co",
             "server_port": 80,
@@ -15012,7 +15038,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "cfcdn3.sanfencdn9.com",
             "server_port": 2052,
