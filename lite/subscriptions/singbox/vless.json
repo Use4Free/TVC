@@ -172,7 +172,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇸🇪SE | 🔴 | vless | @vless_vmess | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
-                "TVCdtienftjwf",
+                "TVCzycunkykmd",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 16",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 13",
@@ -288,7 +288,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇸🇪SE | 🔴 | vless | @vless_vmess | 1",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
-                "TVCdtienftjwf",
+                "TVCzycunkykmd",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 16",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 13",
@@ -1900,7 +1900,7 @@
             }
         },
         {
-            "tag": "TVCdtienftjwf",
+            "tag": "TVCzycunkykmd",
             "type": "vless",
             "server": "",
             "server_port": 0,
