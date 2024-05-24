@@ -140,9 +140,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 16",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 0",
-                "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 1",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 28",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 29",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 16",
@@ -169,8 +168,8 @@
                 "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 9",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 18",
                 "❔XX | 🔴 | vless | @V2RayTz | 19",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 118",
+                "🇨🇦CA | 🔴 | vless | @VmessProtocol | 12",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 118",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 119",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 5",
                 "🇸🇪SE | 🔴 | vless | @sinabigo | 6",
@@ -248,9 +247,8 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 16",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 0",
-                "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 1",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 28",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 29",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 16",
@@ -277,8 +275,8 @@
                 "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 9",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 18",
                 "❔XX | 🔴 | vless | @V2RayTz | 19",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 118",
+                "🇨🇦CA | 🔴 | vless | @VmessProtocol | 12",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 118",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 119",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 5",
                 "🇸🇪SE | 🔴 | vless | @sinabigo | 6",
@@ -1128,7 +1126,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8080,
@@ -1166,27 +1164,6 @@
                 "path": "\/DIGIV2RAY-DigiV2ray-digiv2ray?ed=1024",
                 "headers": {
                     "Host": "185.146.173.22"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 1",
-            "type": "vless",
-            "server": "185.146.173.58",
-            "server_port": 80,
-            "uuid": "SVNTEAMr",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed",
-                "headers": {
-                    "Host": "185.146.173.58"
                 }
             }
         },
@@ -1810,7 +1787,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 12",
+            "tag": "🇨🇦CA | 🔴 | vless | @VmessProtocol | 12",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1831,7 +1808,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 118",
+            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 118",
             "type": "vless",
             "server": "188.114.98.224",
             "server_port": 2095,
