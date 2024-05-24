@@ -182,8 +182,8 @@
                 "🇪🇸ES | 🔴 | vless | @melov2ray | 4",
                 "🇸🇪SE | 🔴 | vless | @melov2ray | 5",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 7",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 8",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 8",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 9",
                 "🚩CF | 🔴 | vless | @V2pedia | 0",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
@@ -361,7 +361,6 @@
                 "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 17",
                 "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
-                "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 1",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 12",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 13",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 14",
@@ -779,8 +778,8 @@
                 "🇪🇸ES | 🔴 | vless | @melov2ray | 4",
                 "🇸🇪SE | 🔴 | vless | @melov2ray | 5",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 7",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 8",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 8",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 9",
                 "🚩CF | 🔴 | vless | @V2pedia | 0",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
@@ -958,7 +957,6 @@
                 "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 17",
                 "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
-                "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 1",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 12",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 13",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 14",
@@ -3155,7 +3153,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8080,
@@ -3176,7 +3174,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 8",
             "type": "vless",
             "server": "chat.openai.com",
             "server_port": 8080,
@@ -7242,27 +7240,6 @@
                 "path": "\/t.me\/V2rayFa-V2rayng-v2rayNgfree-telegram-t.me\/V2rayfa_telegram",
                 "headers": {
                     "Host": "zula.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 1",
-            "type": "vless",
-            "server": "185.146.173.58",
-            "server_port": 80,
-            "uuid": "SVNTEAMr",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed",
-                "headers": {
-                    "Host": "185.146.173.58"
                 }
             }
         },
