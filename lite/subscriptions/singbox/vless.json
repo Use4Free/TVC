@@ -140,7 +140,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 16",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 0",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 28",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 29",
@@ -169,9 +169,9 @@
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 18",
                 "❔XX | 🔴 | vless | @V2RayTz | 19",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 12",
-                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 118",
-                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 119",
-                "🇺🇸US | 🔴 | vless | @sinabigo | 5",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 122",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 123",
+                "🇨🇦CA | 🔴 | vless | @sinabigo | 5",
                 "🇸🇪SE | 🔴 | vless | @sinabigo | 6",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 22",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 23",
@@ -195,7 +195,6 @@
                 "🇺🇸US | 🔴 | vless | @proxy_mtm | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 22",
                 "❔XX | 🔴 | vless | @vpn_go67 | 23",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 1",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 2",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 14",
                 "🇸🇪SE | 🔴 | vless | @IBv2ray | 3",
@@ -247,7 +246,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 16",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 0",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 28",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 29",
@@ -276,9 +275,9 @@
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 18",
                 "❔XX | 🔴 | vless | @V2RayTz | 19",
                 "🇨🇦CA | 🔴 | vless | @VmessProtocol | 12",
-                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 118",
-                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 119",
-                "🇺🇸US | 🔴 | vless | @sinabigo | 5",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 122",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 123",
+                "🇨🇦CA | 🔴 | vless | @sinabigo | 5",
                 "🇸🇪SE | 🔴 | vless | @sinabigo | 6",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 22",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 23",
@@ -302,7 +301,6 @@
                 "🇺🇸US | 🔴 | vless | @proxy_mtm | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 22",
                 "❔XX | 🔴 | vless | @vpn_go67 | 23",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 1",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 2",
                 "🇨🇷CR | 🔴 | vless | @GozargahVPN | 14",
                 "🇸🇪SE | 🔴 | vless | @IBv2ray | 3",
@@ -1126,7 +1124,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8080,
@@ -1808,11 +1806,42 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 118",
+            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 122",
             "type": "vless",
-            "server": "188.114.98.224",
+            "server": "104.19.178.127",
+            "server_port": 443,
+            "uuid": "d9eb0df3-3190-4447-86b6-656fe5ff1119",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mmdv2.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "mmdv2.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 123",
+            "type": "vless",
+            "server": "162.159.136.232",
             "server_port": 2095,
-            "uuid": "128c4aaf-3ed1-4e38-a52d-878952ca19c9",
+            "uuid": "40270604-b3dc-46c0-8ccc-2c7b77fb9e10",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1822,35 +1851,14 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/ZEDMDODON-ZEDMODEON-ZEDMODEON",
                 "headers": {
-                    "Host": "188.114.98.224"
+                    "Host": "162.159.136.232"
                 }
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @DailyV2RY | 119",
-            "type": "vless",
-            "server": "185.146.173.94",
-            "server_port": 2095,
-            "uuid": "128c4aaf-3ed1-4e38-a52d-878952ca19c9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "185.146.173.94"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @sinabigo | 5",
+            "tag": "🇨🇦CA | 🔴 | vless | @sinabigo | 5",
             "type": "vless",
             "server": "188.114.97.3",
             "server_port": 443,
@@ -2465,27 +2473,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 1",
-            "type": "vless",
-            "server": "162.159.136.232",
-            "server_port": 2095,
-            "uuid": "40270604-b3dc-46c0-8ccc-2c7b77fb9e10",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ZEDMDODON-ZEDMODEON-ZEDMODEON",
-                "headers": {
-                    "Host": "162.159.136.232"
-                }
             }
         },
         {
