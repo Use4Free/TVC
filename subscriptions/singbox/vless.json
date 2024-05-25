@@ -190,7 +190,7 @@
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 10",
-                "🇧🇿BZ | 🔴 | vless | @frev2ray | 0",
+                "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
                 "🚩CF | 🔴 | vless | @ARv2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 1",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 2",
@@ -688,7 +688,7 @@
                 "❔XX | 🔴 | vless | @VpnSkyy | 5",
                 "❔XX | 🔴 | vless | @VpnSkyy | 6",
                 "❔XX | 🔴 | vless | @VpnSkyy | 7",
-                "🚩CF | 🔴 | vless | @ROMAX_VPN | 0",
+                "🚩CF | 🔴 | vless | @ROMAX_VPN | 1",
                 "🇸🇪SE | 🔴 | vless | @TVCminer | 0",
                 "🇸🇪SE | 🔴 | vless | @TVCminer | 1",
                 "🇸🇪SE | 🔴 | vless | @TVCminer | 2",
@@ -789,7 +789,7 @@
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 10",
-                "🇧🇿BZ | 🔴 | vless | @frev2ray | 0",
+                "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
                 "🚩CF | 🔴 | vless | @ARv2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 1",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 2",
@@ -1287,7 +1287,7 @@
                 "❔XX | 🔴 | vless | @VpnSkyy | 5",
                 "❔XX | 🔴 | vless | @VpnSkyy | 6",
                 "❔XX | 🔴 | vless | @VpnSkyy | 7",
-                "🚩CF | 🔴 | vless | @ROMAX_VPN | 0",
+                "🚩CF | 🔴 | vless | @ROMAX_VPN | 1",
                 "🇸🇪SE | 🔴 | vless | @TVCminer | 0",
                 "🇸🇪SE | 🔴 | vless | @TVCminer | 1",
                 "🇸🇪SE | 🔴 | vless | @TVCminer | 2",
@@ -3327,7 +3327,7 @@
             }
         },
         {
-            "tag": "🇧🇿BZ | 🔴 | vless | @frev2ray | 0",
+            "tag": "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
             "type": "vless",
             "server": "bloo-NEtflix23.maj.gamerme.IR",
             "server_port": 80,
@@ -15680,7 +15680,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ROMAX_VPN | 0",
+            "tag": "🚩CF | 🔴 | vless | @ROMAX_VPN | 1",
             "type": "vless",
             "server": "104.16.190.131",
             "server_port": 443,
