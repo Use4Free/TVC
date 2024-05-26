@@ -114,8 +114,9 @@
                 "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 7",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "🇸🇪SE | 🟢 | vmess | @Hope_Net | 4",
+                "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 5",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 6",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 2",
@@ -134,8 +135,9 @@
                 "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 7",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "🇸🇪SE | 🟢 | vmess | @Hope_Net | 4",
+                "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 5",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 6",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 2",
@@ -380,7 +382,55 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
+            "type": "vmess",
+            "server": "ingress-i2.onebox6.org",
+            "server_port": 38101,
+            "uuid": "79386685-16da-327c-9e14-aa6d702d86bc",
+            "security": "auto",
+            "alter_id": 1,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/hls\/cctv5phd.m3u8",
+                "headers": {
+                    "Host": "ingress-i2.onebox6.org"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🟢 | vmess | @Hope_Net | 4",
+            "type": "vmess",
+            "server": "web.mobilemostafa.ir",
+            "server_port": 8080,
+            "uuid": "4739c52b-c1a3-450a-822d-f9dbbbec2f3b",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/mesh-vmws\/package.zip",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 5",
             "type": "vmess",
             "server": "505.outline-vpn.cloud",
             "server_port": 443,
@@ -410,40 +460,6 @@
                 "path": "\/linkvws",
                 "headers": {
                     "Host": "kellie.makeup"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
-            "type": "vmess",
-            "server": "vfly5.xyz",
-            "server_port": 443,
-            "uuid": "825136bb-fc0a-4f43-8307-dc2e36f27e2d",
-            "security": "auto",
-            "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vfly5.xyz",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/myblog",
-                "headers": {
-                    "Host": "vfly5.xyz"
                 }
             }
         },
