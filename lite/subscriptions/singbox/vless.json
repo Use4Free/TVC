@@ -170,9 +170,9 @@
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 7",
                 "🇨🇦CA | 🔴 | vless | @proxyymeliii | 17",
                 "🇨🇦CA | 🔴 | vless | @proxyymeliii | 18",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 10",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
+                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 9",
+                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 10",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 8",
                 "🇸🇪SE | 🔴 | vless | @vless_vmess | 9",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 17",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 18",
@@ -288,9 +288,9 @@
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 7",
                 "🇨🇦CA | 🔴 | vless | @proxyymeliii | 17",
                 "🇨🇦CA | 🔴 | vless | @proxyymeliii | 18",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 10",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
+                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 9",
+                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 10",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 8",
                 "🇸🇪SE | 🔴 | vless | @vless_vmess | 9",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 17",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 18",
@@ -1866,7 +1866,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 9",
             "type": "vless",
             "server": "v2ray1ng.pages.dev",
             "server_port": 443,
@@ -1897,7 +1897,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 10",
             "type": "vless",
             "server": "v2ray1ng.pages.dev",
             "server_port": 443,
@@ -1928,7 +1928,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @vless_vmess | 8",
             "type": "vless",
             "server": "172.67.217.107",
             "server_port": 80,
@@ -2273,6 +2273,27 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 17",
             "type": "vless",
+            "server": "188.114.96.3",
+            "server_port": 2082,
+            "uuid": "b0138d55-a493-4dc3-9932-c6f0391707c1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net\/",
+                "headers": {
+                    "Host": "188.114.96.3"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 18",
+            "type": "vless",
             "server": "104.21.74.214",
             "server_port": 2082,
             "uuid": "b0138d55-a493-4dc3-9932-c6f0391707c1",
@@ -2288,37 +2309,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "104.21.74.214"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 18",
-            "type": "vless",
-            "server": "198.41.198.76",
-            "server_port": 443,
-            "uuid": "38a2070d-a256-48f3-891b-c9b68b01c8f7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "jd.wxgqlfx.top",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed",
-                "headers": {
-                    "Host": "jd.wxgqlfx.top"
                 }
             }
         },
