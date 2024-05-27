@@ -164,9 +164,8 @@
                 "🇸🇪SE | 🔴 | vless | @Proxy_PJ | 0",
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6",
                 "🇺🇸US | 🔴 | vless | @Qv2rayDONATED | 7",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 6",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
-                "🇺🇸US | 🔴 | vless | @proxyymeliii | 18",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 19",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
@@ -280,9 +279,8 @@
                 "🇸🇪SE | 🔴 | vless | @Proxy_PJ | 0",
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6",
                 "🇺🇸US | 🔴 | vless | @Qv2rayDONATED | 7",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 6",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
-                "🇺🇸US | 🔴 | vless | @proxyymeliii | 18",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 19",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
@@ -1709,6 +1707,37 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
+            "type": "vless",
+            "server": "188.114.96.6",
+            "server_port": 443,
+            "uuid": "7abaae82-3681-4b61-899f-4cdfb275d09f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "v2ray1ng.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@V2ray1_ng,@V2ray1_ng,@V2ray1_ng",
+                "headers": {
+                    "Host": "v2ray1ng.pages.dev"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 6",
             "type": "vless",
             "server": "v2ray1ng.pages.dev",
@@ -1740,63 +1769,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
-            "type": "vless",
-            "server": "104.16.54.14",
-            "server_port": 443,
-            "uuid": "3cdbc462-6272-4c2a-9a2d-1525a81c7dfa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "xeeqi.kevani8800.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "xeeqi.kevani8800.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 18",
-            "type": "vless",
-            "server": "ch.ni-ham.info",
-            "server_port": 2082,
-            "uuid": "037ff316-9581-4ab2-a4ba-7ecc96ded9ed",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2087",
-                "headers": {
-                    "Host": "ch.ni-ham.info"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 19",
             "type": "vless",
             "server": "ch.ni-ham.info",
             "server_port": 2082,
-            "uuid": "cae48682-7c3f-4a91-bec7-2465c8256059",
+            "uuid": "037ff316-9581-4ab2-a4ba-7ecc96ded9ed",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
