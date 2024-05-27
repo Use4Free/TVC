@@ -175,10 +175,10 @@
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6",
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 7",
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 6",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 7",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 18",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 19",
-                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 8",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 18",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 19",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
@@ -312,10 +312,10 @@
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6",
                 "🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 7",
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 6",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 7",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 18",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 19",
-                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 8",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 18",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 19",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 9",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
@@ -2030,7 +2030,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
             "type": "vless",
             "server": "104.16.54.14",
             "server_port": 443,
@@ -2061,7 +2061,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxyymeliii | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 18",
             "type": "vless",
             "server": "ch.ni-ham.info",
             "server_port": 2082,
@@ -2082,7 +2082,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxyymeliii | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 19",
             "type": "vless",
             "server": "ch.ni-ham.info",
             "server_port": 2082,
@@ -2103,7 +2103,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
             "type": "vless",
             "server": "188.114.97.141",
             "server_port": 443,
