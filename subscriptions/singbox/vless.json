@@ -188,8 +188,6 @@
                 "🚩CF | 🔴 | vless | @V2pedia | 4",
                 "🚩CF | 🔴 | vless | @V2pedia | 6",
                 "🚩CF | 🔴 | vless | @V2pedia | 8",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
-                "🇸🇪SE | 🔴 | vless | @V2pedia | 10",
                 "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 1",
@@ -477,7 +475,6 @@
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 14",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 16",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 17",
-                "🇺🇸US | 🔴 | vless | @proxyymeliii | 18",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
@@ -772,8 +769,6 @@
                 "🚩CF | 🔴 | vless | @V2pedia | 4",
                 "🚩CF | 🔴 | vless | @V2pedia | 6",
                 "🚩CF | 🔴 | vless | @V2pedia | 8",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
-                "🇸🇪SE | 🔴 | vless | @V2pedia | 10",
                 "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 1",
@@ -1061,7 +1056,6 @@
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 14",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 16",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 17",
-                "🇺🇸US | 🔴 | vless | @proxyymeliii | 18",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
@@ -3246,48 +3240,6 @@
                 "path": "\/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia",
                 "headers": {
                     "Host": "188.114.96.3"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
-            "type": "vless",
-            "server": "discord.com.",
-            "server_port": 2095,
-            "uuid": "40270604-b3dc-46c0-8ccc-2c7b77fb9e10",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ZEDMDODON-ZEDMODEON-ZEDMODEON",
-                "headers": {
-                    "Host": "discord.com."
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @V2pedia | 10",
-            "type": "vless",
-            "server": "join-zedmodeon.kanal-asli-zedmodeon.shop.",
-            "server_port": 80,
-            "uuid": "bia--ZEDMODEON",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@ZEDMODEON TEL  @ZEDMODEON TEL  @ZEDMODEON TEL  @ZEDMODEON JOIN @ZEDMODEON TEL  @ZEDMODEON JOIN @ZEDMODEON TEL  @ZEDMODEON TEL  @ZEDMODEON JOIN @ZEDMODEON TEL  @ZEDMODEON @ZeV2ray",
-                "headers": {
-                    "Host": "join-zedmodeon.kanal-asli-zedmodeon.shop."
                 }
             }
         },
@@ -10066,27 +10018,6 @@
                 "path": "\/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray",
                 "headers": {
                     "Host": "LIGHTNING6-joinbed.filj.top"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 18",
-            "type": "vless",
-            "server": "ch.ni-ham.info",
-            "server_port": 2082,
-            "uuid": "322db250-c302-4e0c-a110-b5ecb0954a51",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2087",
-                "headers": {
-                    "Host": "ch.ni-ham.info"
                 }
             }
         },
