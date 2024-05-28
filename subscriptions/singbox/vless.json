@@ -190,7 +190,7 @@
                 "🚩CF | 🔴 | vless | @V2pedia | 8",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 10",
-                "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
+                "🇧🇿BZ | 🔴 | vless | @frev2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 1",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 2",
@@ -772,7 +772,7 @@
                 "🚩CF | 🔴 | vless | @V2pedia | 8",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 10",
-                "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
+                "🇧🇿BZ | 🔴 | vless | @frev2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 1",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 2",
@@ -3288,7 +3288,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
+            "tag": "🇧🇿BZ | 🔴 | vless | @frev2ray | 0",
             "type": "vless",
             "server": "bloo-NEtflix23.maj.gamerme.IR",
             "server_port": 80,
