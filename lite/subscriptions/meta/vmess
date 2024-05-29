@@ -120,7 +120,6 @@ dns:
     'RULE-SET:ir,ircidr,geoip:ir,+.ir,+.bonyan.co': ["217.218.155.155", "217.218.127.127", "https://dns.403.online/dns-query", "https://dns.shecan.ir/dns-query"]
 
 proxies:
-  - {"name":"🇨🇦CA | 🟢 | vmess | @azadi_az_inja_migzare | 0","type":"vmess","server":"104.22.30.97","port":"80","cipher":"auto","uuid":"baec1a72-8a19-49c9-acb9-09db4f694311","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"dl3.127.0.0.1.darkvpnpro.德克萨斯maidaan刺.州拉罗伊.男孩杀人.suonycars.buzz."}}}
   - {"name":"🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 18","type":"vmess","server":"m.cnmjin.net","port":"16632","cipher":"auto","uuid":"2b8cfb7b-d3e7-4525-8418-e13a9b8fd73b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"dcef278233434a15c3587ef998dd119d.mobgslb.tbcache.com"}}}
   - {"name":"🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7","type":"vmess","server":"89.169.53.36","port":"59985","cipher":"auto","uuid":"d572d74e-427b-4525-9d0d-88608d1a4f19","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -139,7 +138,6 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🇨🇦CA | 🟢 | vmess | @azadi_az_inja_migzare | 0'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 18'
       - '🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7'
@@ -158,7 +156,6 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇨🇦CA | 🟢 | vmess | @azadi_az_inja_migzare | 0'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 18'
       - '🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7'
@@ -176,7 +173,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '🇨🇦CA | 🟢 | vmess | @azadi_az_inja_migzare | 0'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 18'
       - '🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7'
