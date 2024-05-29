@@ -135,8 +135,8 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 17",
-                "🇸🇪SE | 🔴 | vless | @proxy_kafee | 1",
                 "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
+                "🇸🇪SE | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 15",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 16",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
@@ -156,7 +156,7 @@
                 "🇨🇦CA | 🔴 | vless | @vmessorg | 6",
                 "🇨🇦CA | 🔴 | vless | @vmessorg | 7",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
-                "🇨🇦CA | 🔴 | vless | @v2rayNG_Matsuri | 10",
+                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
                 "🇨🇦CA | 🔴 | vless | @v2rayngvpn | 0",
                 "❔XX | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 4",
@@ -169,10 +169,10 @@
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 18",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 19",
                 "🇮🇷IR | 🔴 | vless | @vless_vmess | 7",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
-                "🇺🇸US | 🔴 | vless | @V2RayTz | 8",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 8",
+                "🇨🇦CA | 🔴 | vless | @V2RayTz | 8",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 9",
-                "🇬🇧GB | 🔴 | vless | @VmessProtocol | 19",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 18",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 42",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 43",
                 "🇮🇷IR | 🔴 | vless | @sinabigo | 3",
@@ -246,8 +246,8 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 16",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 17",
-                "🇸🇪SE | 🔴 | vless | @proxy_kafee | 1",
                 "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
+                "🇸🇪SE | 🔴 | vless | @proxy_kafee | 3",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 15",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 16",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
@@ -267,7 +267,7 @@
                 "🇨🇦CA | 🔴 | vless | @vmessorg | 6",
                 "🇨🇦CA | 🔴 | vless | @vmessorg | 7",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
-                "🇨🇦CA | 🔴 | vless | @v2rayNG_Matsuri | 10",
+                "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
                 "🇨🇦CA | 🔴 | vless | @v2rayngvpn | 0",
                 "❔XX | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 4",
@@ -280,10 +280,10 @@
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 18",
                 "🇸🇪SE | 🔴 | vless | @proxyymeliii | 19",
                 "🇮🇷IR | 🔴 | vless | @vless_vmess | 7",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
-                "🇺🇸US | 🔴 | vless | @V2RayTz | 8",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 8",
+                "🇨🇦CA | 🔴 | vless | @V2RayTz | 8",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 9",
-                "🇬🇧GB | 🔴 | vless | @VmessProtocol | 19",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 18",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 42",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 43",
                 "🇮🇷IR | 🔴 | vless | @sinabigo | 3",
@@ -1004,27 +1004,6 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @proxy_kafee | 1",
-            "type": "vless",
-            "server": "185.146.173.158",
-            "server_port": 2095,
-            "uuid": "5f696b23-140b-49a9-983a-3afc1d250f98",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-@ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,ExpressVPN_420-ExpressVPN_420-telegram-mehran-v2ray?ed=80",
-                "headers": {
-                    "Host": "185.146.173.158"
-                }
-            }
-        },
-        {
             "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "104.17.169.114",
@@ -1042,6 +1021,27 @@
                 "path": "\/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev",
                 "headers": {
                     "Host": "104.17.169.114"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @proxy_kafee | 3",
+            "type": "vless",
+            "server": "185.146.173.58",
+            "server_port": 8080,
+            "uuid": "Parsashonam-79",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "185.146.173.58"
                 }
             }
         },
@@ -1475,7 +1475,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2rayNG_Matsuri | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
             "type": "vless",
             "server": "xs.wxtv.cc",
             "server_port": 443,
@@ -1794,7 +1794,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @vless_vmess | 8",
             "type": "vless",
             "server": "104.21.74.214",
             "server_port": 2082,
@@ -1815,7 +1815,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2RayTz | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2RayTz | 8",
             "type": "vless",
             "server": "104.19.54.50",
             "server_port": 443,
@@ -1867,17 +1867,34 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VmessProtocol | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 18",
             "type": "vless",
-            "server": "13.41.150.67",
-            "server_port": 22111,
-            "uuid": "bac4253a-6a39-4091-8222-8f85feafbb31",
+            "server": "162.159.252.236",
+            "server_port": 443,
+            "uuid": "d9eb0df3-3190-4447-86b6-656fe5ff1119",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mmdv2.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "mmdv2.pages.dev"
+                }
             }
         },
         {
