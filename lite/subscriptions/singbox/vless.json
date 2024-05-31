@@ -115,8 +115,8 @@
                 "🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 25",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 14",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 15",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 8",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 15",
                 "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 18",
@@ -139,7 +139,7 @@
                 "🇨🇦CA | 🔴 | vless | @v2logy | 15",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 2",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 35",
@@ -222,8 +222,8 @@
                 "🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 25",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 14",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 15",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 8",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 15",
                 "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ARv2ray | 18",
@@ -246,7 +246,7 @@
                 "🇨🇦CA | 🔴 | vless | @v2logy | 15",
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 2",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 35",
@@ -538,6 +538,27 @@
             }
         },
         {
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 6",
+            "type": "vless",
+            "server": "chat.openai.com",
+            "server_port": 8080,
+            "uuid": "afe17092-2377-4e04-9bba-ef04012102db",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/melov2ray\/melov2ray\/melov2ray\/melov2ray\/melov2ray\/melov2ray\/melov2ray",
+                "headers": {
+                    "Host": "chat.openai.com"
+                }
+            }
+        },
+        {
             "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
             "type": "vless",
             "server": "www.visa.com",
@@ -555,27 +576,6 @@
                 "path": "\/melov2ray\/melov2ray\/melov2ray\/melov2ray\/melov2ray\/melov2ray\/melov2ray",
                 "headers": {
                     "Host": "www.visa.com"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 8",
-            "type": "vless",
-            "server": "gama.ir",
-            "server_port": 8080,
-            "uuid": "e70e676a-adcc-471d-892d-365daca635ef",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/melov2ray\/melov2ray\/melov2ray\/melov2ray\/melov2ray\/melov2ray\/melov2ray",
-                "headers": {
-                    "Host": "gama.ir"
                 }
             }
         },
@@ -1110,7 +1110,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8080,
