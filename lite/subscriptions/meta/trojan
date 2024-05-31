@@ -122,8 +122,8 @@ dns:
 proxies:
   - {"name":"🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 14","type":"trojan","server":"52.56.165.92","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15","type":"trojan","server":"18.169.206.181","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇬🇧GB | 🟢 | trojan | @DirectVPN | 14","type":"trojan","server":"18.170.233.81","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 15","type":"trojan","server":"51.44.39.106","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇬🇧GB | 🟢 | trojan | @DirectVPN | 14","type":"trojan","server":"35.176.217.207","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇬🇧GB | 🟢 | trojan | @DirectVPN | 15","type":"trojan","server":"18.170.233.81","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇸🇪SE | 🔴 | trojan | @iP_CF | 5","type":"trojan","server":"185.146.173.94","port":80,"udp":false,"password":"trojan","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
 proxy-groups:
   - name: MANUAL
@@ -134,7 +134,7 @@ proxy-groups:
       - '🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 14'
       - '🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15'
       - '🇬🇧GB | 🟢 | trojan | @DirectVPN | 14'
-      - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 15'
+      - '🇬🇧GB | 🟢 | trojan | @DirectVPN | 15'
       - '🇸🇪SE | 🔴 | trojan | @iP_CF | 5'
   - name: URL-TEST
     type: url-test
@@ -145,7 +145,7 @@ proxy-groups:
       - '🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 14'
       - '🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15'
       - '🇬🇧GB | 🟢 | trojan | @DirectVPN | 14'
-      - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 15'
+      - '🇬🇧GB | 🟢 | trojan | @DirectVPN | 15'
       - '🇸🇪SE | 🔴 | trojan | @iP_CF | 5'
   - name: FALLBACK
     type: fallback
@@ -155,7 +155,7 @@ proxy-groups:
       - '🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 14'
       - '🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15'
       - '🇬🇧GB | 🟢 | trojan | @DirectVPN | 14'
-      - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 15'
+      - '🇬🇧GB | 🟢 | trojan | @DirectVPN | 15'
       - '🇸🇪SE | 🔴 | trojan | @iP_CF | 5'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
