@@ -159,8 +159,8 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @Proxy_PJ | 0","type":"vless","server":"188.114.97.141","port":443,"udp":false,"uuid":"d7bbfe83-b037-48ae-996c-b98ed0441ba2","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"e10c0e4b.oodaeq2.pages.dev","ws-opts":{"path":"/?ed=2048","headers":{"host":"e10c0e4b.oodaeq2.pages.dev"}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6","type":"vless","server":"64.68.192.77","port":443,"udp":false,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline","ws-opts":{"path":"/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/?ed=2048","headers":{"host":"963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Qv2rayDONATED | 7","type":"vless","server":"104.16.188.173","port":443,"udp":false,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline","ws-opts":{"path":"/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/@V2VIPCHANNEL/?ed=2048","headers":{"host":"963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @v2ray_swhil | 10","type":"vless","server":"172.66.46.251","port":443,"udp":false,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"bBF9c21A.tECHNeTbpb.paGEs.Dev","ws-opts":{"path":"/Telegram-@V2ray_Alpha/?ed=2560","headers":{"host":"BbF9c21a.TecHNETbpB.paGEs.dEv"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @v2ray_swhil | 11","type":"vless","server":"172.67.180.15","port":443,"udp":false,"uuid":"3c95c3eb-522a-46a0-a49a-14e10c03fbf8","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"paHlAvi.pAGEs.DeV","ws-opts":{"path":"JOIN-FILTERK0SH/?ed=2048","headers":{"host":"PaHLAvi.pAGes.DEV"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @v2ray_swhil | 12","type":"vless","server":"188.114.96.6","port":443,"udp":false,"uuid":"6bc5ab95-23e1-4781-80f4-a2a30c6021af","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"v2ray1ng.pages.dev","ws-opts":{"path":"/@V2ray1_ng,@V2ray1_ng,@V2ray1_ng","headers":{"host":"v2ray1ng.pages.dev"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @proxyymeliii | 15","type":"vless","server":"ch.ni-ham.info","port":2053,"udp":false,"uuid":"6d25b46e-ee2e-483e-8d52-0b219d5c1690","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ajghg.f-vipo.ir","ws-opts":{"path":"/?ed=2087","headers":{"host":"ajghg.f-vipo.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @proxyymeliii | 16","type":"vless","server":"ch.ni-ham.info","port":2053,"udp":false,"uuid":"5ebd15b5-d9a8-4a47-8f3b-453d5e4ca89a","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ajghg.f-vipo.ir","ws-opts":{"path":"/?ed=2087","headers":{"host":"ajghg.f-vipo.ir"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @MsV2ray | 11","type":"vless","server":"162.55.188.244","port":29947,"udp":false,"uuid":"6b99dce7-99b0-4e80-97a6-2f517b048409","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -251,8 +251,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Proxy_PJ | 0'
       - '🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6'
       - '🇺🇸US | 🔴 | vless | @Qv2rayDONATED | 7'
-      - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 10'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 11'
+      - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 12'
       - '🇺🇸US | 🔴 | vless | @proxyymeliii | 15'
       - '🇺🇸US | 🔴 | vless | @proxyymeliii | 16'
       - '🇩🇪DE | 🔴 | vless | @MsV2ray | 11'
@@ -343,8 +343,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Proxy_PJ | 0'
       - '🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6'
       - '🇺🇸US | 🔴 | vless | @Qv2rayDONATED | 7'
-      - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 10'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 11'
+      - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 12'
       - '🇺🇸US | 🔴 | vless | @proxyymeliii | 15'
       - '🇺🇸US | 🔴 | vless | @proxyymeliii | 16'
       - '🇩🇪DE | 🔴 | vless | @MsV2ray | 11'
@@ -434,8 +434,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Proxy_PJ | 0'
       - '🇨🇦CA | 🔴 | vless | @Qv2rayDONATED | 6'
       - '🇺🇸US | 🔴 | vless | @Qv2rayDONATED | 7'
-      - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 10'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 11'
+      - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 12'
       - '🇺🇸US | 🔴 | vless | @proxyymeliii | 15'
       - '🇺🇸US | 🔴 | vless | @proxyymeliii | 16'
       - '🇩🇪DE | 🔴 | vless | @MsV2ray | 11'
