@@ -168,8 +168,8 @@
                 "🇩🇪DE | 🔴 | vless | @VPNCUSTOMIZE | 19",
                 "🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 21",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 22",
-                "🇩🇪DE | 🔴 | vless | @VPNCUSTOMIZE | 23",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 24",
+                "🇬🇧GB | 🔴 | vless | @VPNCUSTOMIZE | 23",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 24",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 1",
                 "🚩CF | 🔴 | vless | @ipV2Ray | 2",
@@ -831,8 +831,8 @@
                 "🇩🇪DE | 🔴 | vless | @VPNCUSTOMIZE | 19",
                 "🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 21",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 22",
-                "🇩🇪DE | 🔴 | vless | @VPNCUSTOMIZE | 23",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 24",
+                "🇬🇧GB | 🔴 | vless | @VPNCUSTOMIZE | 23",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 24",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 0",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 1",
                 "🚩CF | 🔴 | vless | @ipV2Ray | 2",
@@ -2983,7 +2983,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VPNCUSTOMIZE | 23",
+            "tag": "🇬🇧GB | 🔴 | vless | @VPNCUSTOMIZE | 23",
             "type": "vless",
             "server": "Join--VPNCUSTOMIZE.V2ray.re",
             "server_port": 8080,
@@ -3004,7 +3004,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 24",
+            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 24",
             "type": "vless",
             "server": "ww.ninjacdn.org.",
             "server_port": 443,

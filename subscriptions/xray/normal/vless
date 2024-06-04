@@ -66,8 +66,8 @@ vless://join-VPNCUSTOMIZE@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=
 vless://join-VPNCUSTOMIZE@Join--VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇩🇪DE | 🔴 | vless | @VPNCUSTOMIZE | 19
 vless://_VPNCUSTOMIZE_@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 21
 vless://_VPNCUSTOMIZE_@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 22
-vless://_VPNCUSTOMIZE_@Join--VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇩🇪DE | 🔴 | vless | @VPNCUSTOMIZE | 23
-vless://MCI@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 24
+vless://_VPNCUSTOMIZE_@Join--VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇬🇧GB | 🔴 | vless | @VPNCUSTOMIZE | 23
+vless://MCI@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 24
 vless://Telegram-ipV2Ray-xre@185.146.173.58:2052?type=ws&path=/Telegram-ipV2Ray?ed=2048&host=V2ray.2.ftp.debian.org.www.speedtest.net.免费上网67.Site.&security=none#🇸🇪SE | 🔴 | vless | @ipV2Ray | 0
 vless://Telegram-ipV2Ray-zwe@185.146.173.58:2052?type=ws&path=/Telegram-ipV2Ray?ed=2048&host=V2ray.1.ftp.debian.org.www.speedtest.net.免费上网67.Site.&security=none#🇸🇪SE | 🔴 | vless | @ipV2Ray | 1
 vless://Telegram-ipV2Ray-vte@190.93.247.155:2083?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Telegram-ipV2Ray&sni=de1.irantech.org#🚩CF | 🔴 | vless | @ipV2Ray | 2
