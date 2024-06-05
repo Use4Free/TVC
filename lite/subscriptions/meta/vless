@@ -186,8 +186,8 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @Capoit | 23","type":"vless","server":"172.67.135.195","port":443,"udp":false,"uuid":"1235b6fb-7f15-4361-8da3-d1a079bdf484","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"who-doesnt-care.BacheBiaPain.IR","ws-opts":{"path":"/TELEGRAM-MARAMBASHI/?ed=2048","headers":{"host":"who-doesnt-care.BacheBiaPain.IR"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @Capoit | 24","type":"vless","server":"all.playtheclub.info","port":2096,"udp":false,"uuid":"66b04028-2f60-493b-b2b8-bfb24312780f","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"lchvvwchkf29trhdurcmausfnvhv7yvun38-axcmwi93-dfvnn2edXXvBqVHjk.playtheclub.info","grpc-opts":{"grpc-service-name":""}}
   - {"name":"🇺🇸US | 🟢 | vless | @FreakConfig | 14","type":"vless","server":"172.67.204.39","port":443,"udp":false,"uuid":"7f3b2f37-819e-49ee-9f5c-215467bfde61","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"turkmenistan.armanibash.Shop.","ws-opts":{"path":"/","headers":{"host":"turkmenistan.armanibash.Shop."}}}
-  - {"name":"🇸🇪SE | 🔴 | vless | @flyv2ray | 15","type":"vless","server":"185.146.173.94","port":2095,"udp":false,"uuid":"43df012e-07e1-440a-baa2-3da6b1143625","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com."}}}
-  - {"name":"🇸🇪SE | 🔴 | vless | @flyv2ray | 16","type":"vless","server":"185.146.173.9","port":2095,"udp":false,"uuid":"682835c2-7d97-4866-b94a-c0a7637c220c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 16","type":"vless","server":"check-host.net","port":2052,"udp":false,"uuid":"c657d012-48da-4ba2-88aa-de8b95bc00cb","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"//telegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm?ed=2048","headers":{"host":"1.ftp.debian.org.www.speedtest.net.免费上网67.Site."}}}
+  - {"name":"🇸🇪SE | 🔴 | vless | @flyv2ray | 17","type":"vless","server":"185.146.173.94","port":2095,"udp":false,"uuid":"43df012e-07e1-440a-baa2-3da6b1143625","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @iP_CF | 0","type":"vless","server":"api.gordonhosting.com","port":443,"udp":false,"uuid":"bb7422e4-8b90-4d00-bae4-a5125356128a","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"api.gordonhosting.com","ws-opts":{"path":"/193faab2-e111-4bd7-a0c8-4ddfbdfb5234/e23bc0ce79a34b20f762ed0325123adb","headers":{"host":"api.gordonhosting.com"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @mehrosaboran | 6","type":"vless","server":"194.5.54.182","port":2057,"udp":false,"uuid":"a143245e-446b-47f3-bf48-8beb70f84104","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇸🇪SE | 🔴 | vless | @proxy_mtm | 0","type":"vless","server":"185.146.173.58","port":2052,"udp":false,"uuid":"f78b2e6d-0f31-4040-8e8a-f811eced1ee2","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"//telegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm?ed=2048","headers":{"host":"1.ftp.debian.org.www.speedtest.net.免费上网67.Site."}}}
@@ -275,8 +275,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Capoit | 23'
       - '🇺🇸US | 🔴 | vless | @Capoit | 24'
       - '🇺🇸US | 🟢 | vless | @FreakConfig | 14'
-      - '🇸🇪SE | 🔴 | vless | @flyv2ray | 15'
-      - '🇸🇪SE | 🔴 | vless | @flyv2ray | 16'
+      - '🇺🇸US | 🔴 | vless | @flyv2ray | 16'
+      - '🇸🇪SE | 🔴 | vless | @flyv2ray | 17'
       - '🇺🇸US | 🔴 | vless | @iP_CF | 0'
       - '🇮🇷IR | 🔴 | vless | @mehrosaboran | 6'
       - '🇸🇪SE | 🔴 | vless | @proxy_mtm | 0'
@@ -364,8 +364,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Capoit | 23'
       - '🇺🇸US | 🔴 | vless | @Capoit | 24'
       - '🇺🇸US | 🟢 | vless | @FreakConfig | 14'
-      - '🇸🇪SE | 🔴 | vless | @flyv2ray | 15'
-      - '🇸🇪SE | 🔴 | vless | @flyv2ray | 16'
+      - '🇺🇸US | 🔴 | vless | @flyv2ray | 16'
+      - '🇸🇪SE | 🔴 | vless | @flyv2ray | 17'
       - '🇺🇸US | 🔴 | vless | @iP_CF | 0'
       - '🇮🇷IR | 🔴 | vless | @mehrosaboran | 6'
       - '🇸🇪SE | 🔴 | vless | @proxy_mtm | 0'
@@ -452,8 +452,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Capoit | 23'
       - '🇺🇸US | 🔴 | vless | @Capoit | 24'
       - '🇺🇸US | 🟢 | vless | @FreakConfig | 14'
-      - '🇸🇪SE | 🔴 | vless | @flyv2ray | 15'
-      - '🇸🇪SE | 🔴 | vless | @flyv2ray | 16'
+      - '🇺🇸US | 🔴 | vless | @flyv2ray | 16'
+      - '🇸🇪SE | 🔴 | vless | @flyv2ray | 17'
       - '🇺🇸US | 🔴 | vless | @iP_CF | 0'
       - '🇮🇷IR | 🔴 | vless | @mehrosaboran | 6'
       - '🇸🇪SE | 🔴 | vless | @proxy_mtm | 0'
