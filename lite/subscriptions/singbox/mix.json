@@ -123,7 +123,7 @@
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 26",
                 "🇨🇦CA | 🔴 | vless | @frev2ray | 0",
                 "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇸🇪SE | 🔴 | vless | @shh_proxy | 25",
                 "🇸🇪SE | 🔴 | vless | @shh_proxy | 26",
                 "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 16",
@@ -201,8 +201,8 @@
                 "🇩🇪DE | 🟢 | trojan | @proxystore11 | 4",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 1",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 4",
@@ -264,7 +264,7 @@
                 "🇸🇪SE | 🔴 | vless | @V2pedia | 26",
                 "🇨🇦CA | 🔴 | vless | @frev2ray | 0",
                 "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇸🇪SE | 🔴 | vless | @shh_proxy | 25",
                 "🇸🇪SE | 🔴 | vless | @shh_proxy | 26",
                 "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 16",
@@ -342,8 +342,8 @@
                 "🇩🇪DE | 🟢 | trojan | @proxystore11 | 4",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 1",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 4",
@@ -784,7 +784,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "Zula.ir",
             "server_port": 80,
@@ -2685,6 +2685,30 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+            "type": "vmess",
+            "server": "zula.ir",
+            "server_port": 2095,
+            "uuid": "edf2bc84-8723-4c98-82d3-52a3a59875a4",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "zula.ir",
@@ -2706,23 +2730,6 @@
                 "headers": {
                     "Host": "zula.ir"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
-            "type": "vmess",
-            "server": "107.148.192.148",
-            "server_port": 41911,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
