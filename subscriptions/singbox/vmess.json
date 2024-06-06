@@ -110,7 +110,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 1",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 2",
-                "🇺🇸US | 🟢 | vmess | @mftizi | 8",
+                "🇨🇦CA | 🟢 | vmess | @mftizi | 8",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 0",
@@ -140,7 +140,7 @@
                 "🚩CF | 🟢 | vmess | @v2rayng_config_amin | 0",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 0",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 1",
+                "🇨🇦CA | 🟢 | vmess | @v2Line | 1",
                 "🚩CF | 🟢 | vmess | @v2Line | 2",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 4",
@@ -163,7 +163,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 1",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 2",
-                "🇺🇸US | 🟢 | vmess | @mftizi | 8",
+                "🇨🇦CA | 🟢 | vmess | @mftizi | 8",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 0",
@@ -193,7 +193,7 @@
                 "🚩CF | 🟢 | vmess | @v2rayng_config_amin | 0",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 0",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 1",
+                "🇨🇦CA | 🟢 | vmess | @v2Line | 1",
                 "🚩CF | 🟢 | vmess | @v2Line | 2",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 4",
@@ -303,7 +303,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 8",
+            "tag": "🇨🇦CA | 🟢 | vmess | @mftizi | 8",
             "type": "vmess",
             "server": "hk.wish.ml",
             "server_port": 2052,
@@ -1131,7 +1131,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 1",
+            "tag": "🇨🇦CA | 🟢 | vmess | @v2Line | 1",
             "type": "vmess",
             "server": "caretaker.com",
             "server_port": 443,
