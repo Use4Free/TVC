@@ -140,7 +140,7 @@
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇳🇱NL | 🟢 | tuic | @irancpi_vpn | 0",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 2",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 24",
@@ -277,7 +277,7 @@
                 "🇮🇷IR | 🔴 | vless | @servermomo | 4",
                 "🇳🇱NL | 🟢 | tuic | @irancpi_vpn | 0",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
-                "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+                "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 2",
                 "🇸🇪SE | 🔴 | vless | @ProxyForOpeta | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 24",
@@ -1190,7 +1190,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8080,
