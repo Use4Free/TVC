@@ -141,7 +141,6 @@
                 "🇨🇱CL | 🟢 | vmess | @Hope_Net | 4",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
                 "🚩CF | 🟢 | vmess | @v2rayng_config_amin | 0",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 0",
@@ -156,8 +155,7 @@
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 1",
                 "🚩CF | 🟢 | vmess | @ROMAX_VPN | 2",
                 "🚩CF | 🟢 | vmess | @ROMAX_VPN | 5",
-                "🚩CF | 🟢 | vmess | @ROMAX_VPN | 6",
-                "🚩CF | 🟢 | vmess | @ROMAX_VPN | 8"
+                "🚩CF | 🟢 | vmess | @ROMAX_VPN | 6"
             ]
         },
         {
@@ -199,7 +197,6 @@
                 "🇨🇱CL | 🟢 | vmess | @Hope_Net | 4",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 6",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
                 "🚩CF | 🟢 | vmess | @v2rayng_config_amin | 0",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 0",
@@ -214,8 +211,7 @@
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 1",
                 "🚩CF | 🟢 | vmess | @ROMAX_VPN | 2",
                 "🚩CF | 🟢 | vmess | @ROMAX_VPN | 5",
-                "🚩CF | 🟢 | vmess | @ROMAX_VPN | 6",
-                "🚩CF | 🟢 | vmess | @ROMAX_VPN | 8"
+                "🚩CF | 🟢 | vmess | @ROMAX_VPN | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -1111,30 +1107,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 7",
-            "type": "vmess",
-            "server": "107.173.146.129",
-            "server_port": 80,
-            "uuid": "5820093a-bb7d-4e15-8575-1a529f2d8282",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
             "tag": "🚩CF | 🟢 | vmess | @v2rayng_config_amin | 0",
             "type": "vmess",
             "server": "188.114.97.3",
@@ -1614,30 +1586,6 @@
                 "path": "\/linkws",
                 "headers": {
                     "Host": "obdii.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @ROMAX_VPN | 8",
-            "type": "vmess",
-            "server": "172.67.166.192",
-            "server_port": 80,
-            "uuid": "cd1db809-2de0-409c-aef5-861e95eff53e",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/vmess",
-                "headers": {
-                    "Host": ""
                 }
             }
         }
