@@ -109,17 +109,16 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 17",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 18",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 19",
-                "🇨🇭CH | 🟢 | vmess | @ConfigsHUB | 17",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 5",
-                "🇮🇳IN | 🟢 | vmess | @v2Line | 7",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 8",
+                "🇮🇳IN | 🟢 | vmess | @v2Line | 8",
+                "🇺🇸US | 🟢 | vmess | @v2Line | 9",
                 "🇹🇷TR | 🟢 | vmess | @FreakConfig | 3",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 6"
             ]
@@ -131,17 +130,16 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 17",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 18",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 19",
-                "🇨🇭CH | 🟢 | vmess | @ConfigsHUB | 17",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 5",
-                "🇮🇳IN | 🟢 | vmess | @v2Line | 7",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 8",
+                "🇮🇳IN | 🟢 | vmess | @v2Line | 8",
+                "🇺🇸US | 🟢 | vmess | @v2Line | 9",
                 "🇹🇷TR | 🟢 | vmess | @FreakConfig | 3",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 6"
             ],
@@ -234,7 +232,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 3",
+            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": "172.67.164.164",
             "server_port": 443,
@@ -326,23 +324,6 @@
             }
         },
         {
-            "tag": "🇨🇭CH | 🟢 | vmess | @ConfigsHUB | 17",
-            "type": "vmess",
-            "server": "195.15.201.60",
-            "server_port": 55735,
-            "uuid": "5c01f864-960c-4c69-bfd3-5aadc6492697",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
@@ -401,7 +382,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 8",
             "type": "vmess",
             "server": "51.81.223.19",
             "server_port": 443,
@@ -428,7 +409,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
             "server": "v3.ssrsub.com",
             "server_port": 18443,
@@ -496,7 +477,7 @@
             }
         },
         {
-            "tag": "🇮🇳IN | 🟢 | vmess | @v2Line | 7",
+            "tag": "🇮🇳IN | 🟢 | vmess | @v2Line | 8",
             "type": "vmess",
             "server": "in-full.privateip.net",
             "server_port": 443,
@@ -530,7 +511,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 8",
+            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 9",
             "type": "vmess",
             "server": "104.21.44.106",
             "server_port": 443,
