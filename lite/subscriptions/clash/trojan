@@ -124,6 +124,7 @@ proxies:
   - {"name":"🇸🇪SE | 🟢 | trojan | @DirectVPN | 16","type":"trojan","server":"51.20.112.104","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"138.199.57.185","port":43118,"udp":false,"password":"ypDt8RkT7J","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"eiety.phooeyunfold.com"}
   - {"name":"🇹🇷TR | 🟢 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"95.164.116.35","port":443,"udp":false,"password":"1e269a95-135c-4710-b3a5-dd59a0a07d06","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"tr-full.privateip.net"}
+  - {"name":"🇫🇷FR | 🔴 | trojan | @ConfigsHUB | 17","type":"trojan","server":"15.236.110.85","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -136,6 +137,7 @@ proxy-groups:
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 16'
       - '🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 5'
       - '🇹🇷TR | 🟢 | trojan | @oneclickvpnkeys | 6'
+      - '🇫🇷FR | 🔴 | trojan | @ConfigsHUB | 17'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -148,6 +150,7 @@ proxy-groups:
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 16'
       - '🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 5'
       - '🇹🇷TR | 🟢 | trojan | @oneclickvpnkeys | 6'
+      - '🇫🇷FR | 🔴 | trojan | @ConfigsHUB | 17'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -159,6 +162,7 @@ proxy-groups:
       - '🇸🇪SE | 🟢 | trojan | @DirectVPN | 16'
       - '🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 5'
       - '🇹🇷TR | 🟢 | trojan | @oneclickvpnkeys | 6'
+      - '🇫🇷FR | 🔴 | trojan | @ConfigsHUB | 17'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
