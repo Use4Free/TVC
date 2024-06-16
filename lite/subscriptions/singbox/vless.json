@@ -135,7 +135,7 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 19",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 20",
-                "🇨🇷CR | 🔴 | vless | @proxy_kafee | 2",
+                "🇸🇪SE | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 11",
@@ -178,6 +178,8 @@
                 "🇺🇸US | 🔴 | vless | @sinabigo | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 21",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 22",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 3",
@@ -246,7 +248,7 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 19",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 20",
-                "🇨🇷CR | 🔴 | vless | @proxy_kafee | 2",
+                "🇸🇪SE | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 11",
@@ -289,6 +291,8 @@
                 "🇺🇸US | 🔴 | vless | @sinabigo | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 21",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 22",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 4",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 3",
@@ -1001,28 +1005,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | 🔴 | vless | @proxy_kafee | 2",
-            "type": "vless",
-            "server": "190.93.247.155",
-            "server_port": 2095,
-            "uuid": "join--ZEDMODEON",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@ZEDMODEON TEL  @ZEDMODEON TEL  @ZEDMODEON TEL  @ZEDMODEON JOIN @ZEDMODEON TEL  @ZEDMODEON JOIN @ZEDMODEON TEL  @ZEDMODEON TEL  @ZEDMODEON JOIN @ZEDMODEON TEL  @ZEDMODEON @ZeV2ray",
-                "headers": {
-                    "Host": "190.93.247.155"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @proxy_kafee | 3",
+            "tag": "🇸🇪SE | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "185.146.173.196",
             "server_port": 8880,
@@ -1039,6 +1022,27 @@
                 "path": "\/Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray,Telegram-Mainv2ray?ed",
                 "headers": {
                     "Host": "185.146.173.196"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @proxy_kafee | 3",
+            "type": "vless",
+            "server": "185.146.173.95",
+            "server_port": 80,
+            "uuid": "f93255ff-7727-4dee-bc1b-80df895e7f3e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "185.146.173.95"
                 }
             }
         },
@@ -1993,6 +1997,48 @@
                 "path": "\/Join--VPNCUSTOMIZE.V2ray.re?ed=8080",
                 "headers": {
                     "Host": "VPNCUSTOMIZE.Elmahstyle.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "172.67.199.19",
+            "server_port": 2052,
+            "uuid": "416f18ec-11f3-4648-9693-8c6480d0662d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "172.67.199.19"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "46.245.64.205",
+            "server_port": 2095,
+            "uuid": "bda7d078-cfb3-47ea-a66f-037a391c17e5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "46.245.64.205"
                 }
             }
         },
