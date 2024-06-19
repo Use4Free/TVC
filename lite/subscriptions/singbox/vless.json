@@ -145,8 +145,8 @@
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 22",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 23",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 19",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 184",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 185",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
@@ -175,6 +175,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 4",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 5",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 8",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 5",
@@ -252,8 +253,8 @@
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 22",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 23",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 19",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 184",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 185",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 12",
@@ -282,6 +283,7 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 9",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 4",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 5",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 8",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 5",
@@ -1209,7 +1211,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
             "type": "vless",
             "server": "104.21.69.44",
             "server_port": 443,
@@ -1240,7 +1242,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 19",
             "type": "vless",
             "server": "188.114.97.167",
             "server_port": 8880,
@@ -1951,6 +1953,37 @@
                 "path": "\/cVld1tNyOQfi6EWx?ed=2560",
                 "headers": {
                     "Host": "heY.BACHEBiapaIn.Ir"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "188.114.96.3",
+            "server_port": 443,
+            "uuid": "52b15ac7-8d4d-4250-ba8c-200d52bc4af0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "join-v2rey.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/---------DisVpn---------DisVpn---------DisVpn",
+                "headers": {
+                    "Host": "join-v2rey.pages.dev"
                 }
             }
         },
