@@ -177,8 +177,8 @@
                 "🇬🇧GB | 🔴 | vless | @sinabigo | 3",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 4",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 35",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 5",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -290,8 +290,8 @@
                 "🇬🇧GB | 🔴 | vless | @sinabigo | 3",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 4",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 35",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 5",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -1952,11 +1952,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "zula.ir",
-            "server_port": 8080,
-            "uuid": "5d5bb467-0562-4a07-9d50-5982acb34174",
+            "server": "185.146.173.37",
+            "server_port": 2095,
+            "uuid": "8adfaf43-8e3a-4eec-94c9-e7c8d81e8add",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1966,41 +1966,24 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Join--VPNCUSTOMIZE.V2ray.re?ed=8080",
+                "path": "\/",
                 "headers": {
-                    "Host": "zula.ir"
+                    "Host": "185.146.173.37"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "104.18.202.232",
-            "server_port": 443,
-            "uuid": "17a7bf97-fef5-4101-a5c5-7c730fabeeee",
+            "server": "144.76.231.18",
+            "server_port": 36125,
+            "uuid": "c96fc927-abec-4d13-8bf5-4fbd554e08f0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bpb-worker-panel-h5f.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-proxy_mtm\/",
-                "headers": {
-                    "Host": "bpb-worker-panel-h5f.pages.dev"
-                }
             }
         },
         {
