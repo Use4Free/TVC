@@ -176,6 +176,7 @@
                 "🇲🇾MY | 🔴 | vless | @sinabigo | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 40",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 41",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 14",
                 "🇲🇾MY | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
@@ -286,6 +287,7 @@
                 "🇲🇾MY | 🔴 | vless | @sinabigo | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 40",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 41",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 14",
                 "🇲🇾MY | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
@@ -1942,6 +1944,37 @@
                 "headers": {
                     "Host": "VPNCUSTOMIZE.Elmahstyle.ir"
                 }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "2.189.59.2",
+            "server_port": 443,
+            "uuid": "36798d8a-1a34-4579-901f-a4ef7c759553",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mci.unlimiteddev-vpn.Com.",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Channel:@UnlimitedDev",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
