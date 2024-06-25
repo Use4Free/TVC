@@ -519,7 +519,8 @@
                 "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 0",
                 "🚩CF | 🔴 | vless | @ConfigsHUB | 1",
                 "🚩CF | 🔴 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 5",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 8",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "🚩CF | 🔴 | vless | @proxystore11 | 1",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 3",
@@ -547,7 +548,7 @@
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 15",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 17",
-                "TVCnuzzaavpow",
+                "TVCtomegnacbm",
                 "🚩CF | 🔴 | vless | @v2rayng_vpnrog | 5",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 7",
                 "🚩CF | 🔴 | vless | @v2rayng_vpnrog | 8",
@@ -588,6 +589,7 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
+                "🇺🇸US | 🔴 | vless | @Capoit | 0",
                 "🚩CF | 🔴 | vless | @Capoit | 1",
                 "🇺🇸US | 🔴 | vless | @Capoit | 4",
                 "🇺🇸US | 🔴 | vless | @Capoit | 6",
@@ -1094,7 +1096,8 @@
                 "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 0",
                 "🚩CF | 🔴 | vless | @ConfigsHUB | 1",
                 "🚩CF | 🔴 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 5",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 8",
                 "❔XX | 🔴 | vless | @proxystore11 | 0",
                 "🚩CF | 🔴 | vless | @proxystore11 | 1",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 3",
@@ -1122,7 +1125,7 @@
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 14",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 15",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 17",
-                "TVCnuzzaavpow",
+                "TVCtomegnacbm",
                 "🚩CF | 🔴 | vless | @v2rayng_vpnrog | 5",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 7",
                 "🚩CF | 🔴 | vless | @v2rayng_vpnrog | 8",
@@ -1163,6 +1166,7 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
+                "🇺🇸US | 🔴 | vless | @Capoit | 0",
                 "🚩CF | 🔴 | vless | @Capoit | 1",
                 "🇺🇸US | 🔴 | vless | @Capoit | 4",
                 "🇺🇸US | 🔴 | vless | @Capoit | 6",
@@ -10868,11 +10872,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 5",
             "type": "vless",
-            "server": "zula.ir",
-            "server_port": 80,
-            "uuid": "83cbebec-9582-4f99-927a-b14d57e7b5f7",
+            "server": "104.18.34.251",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -10880,11 +10884,52 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "B458aB02.cAa-CHANEL-WORKER-pAge-fREE-jhUiHnuJhpHJKL-nIHGKjn.PAges.Dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/TELEGRAM-MARAMBASHI-MARAMBASHI\/",
                 "headers": {
-                    "Host": "zula.ir"
+                    "Host": "B458aB02.cAa-CHANEL-WORKER-pAge-fREE-jhUiHnuJhpHJKL-nIHGKjn.PAges.Dev"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 8",
+            "type": "vless",
+            "server": "172.67.152.111",
+            "server_port": 443,
+            "uuid": "9f70a4c0-f727-47fb-ba7d-d604dba9669c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "worker-little-leaf-7f8e.foxici5037.workers.Dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-MARAMBASHI\/",
+                "headers": {
+                    "Host": "worker-little-leaf-7f8e.foxici5037.workers.Dev"
                 }
             }
         },
@@ -11532,7 +11577,7 @@
             }
         },
         {
-            "tag": "TVCnuzzaavpow",
+            "tag": "TVCtomegnacbm",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -12710,6 +12755,27 @@
                     "enabled": true,
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Capoit | 0",
+            "type": "vless",
+            "server": "zula.ir",
+            "server_port": 80,
+            "uuid": "83cbebec-9582-4f99-927a-b14d57e7b5f7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "zula.ir"
                 }
             }
         },
