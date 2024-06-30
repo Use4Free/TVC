@@ -117,8 +117,8 @@
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 8",
+                "🇺🇸US | 🟢 | vmess | @iP_CF | 0",
                 "🇺🇸US | 🟢 | vmess | @iP_CF | 1",
-                "🇺🇸US | 🟢 | vmess | @iP_CF | 2",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 4",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 5"
             ]
@@ -138,8 +138,8 @@
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 8",
+                "🇺🇸US | 🟢 | vmess | @iP_CF | 0",
                 "🇺🇸US | 🟢 | vmess | @iP_CF | 1",
-                "🇺🇸US | 🟢 | vmess | @iP_CF | 2",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 4",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 5"
             ],
@@ -457,9 +457,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @iP_CF | 1",
+            "tag": "🇺🇸US | 🟢 | vmess | @iP_CF | 0",
             "type": "vmess",
-            "server": "104.20.247.40",
+            "server": "104.25.226.50",
             "server_port": 80,
             "uuid": "078c86a6-8dde-4dcc-a08e-378990a8b3b2",
             "security": "auto",
@@ -481,9 +481,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @iP_CF | 2",
+            "tag": "🇺🇸US | 🟢 | vmess | @iP_CF | 1",
             "type": "vmess",
-            "server": "104.20.103.155",
+            "server": "104.20.247.40",
             "server_port": 80,
             "uuid": "078c86a6-8dde-4dcc-a08e-378990a8b3b2",
             "security": "auto",
