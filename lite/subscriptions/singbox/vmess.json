@@ -109,7 +109,7 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇦CA | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 19",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇹🇷TR | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
@@ -130,7 +130,7 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇦CA | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 19",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇹🇷TR | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
@@ -222,11 +222,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
+            "tag": "🇹🇷TR | 🟢 | vmess | @oneclickvpnkeys | 5",
             "type": "vmess",
-            "server": "fgzlwxmo1829.dopraxrocks.com",
-            "server_port": 8880,
-            "uuid": "4605f656-5a3d-4221-a9ef-ed775e82e430",
+            "server": "45.89.52.114",
+            "server_port": 13701,
+            "uuid": "86a0c17d-1871-40e3-db65-2b9bf1a7650e",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -236,13 +236,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/2.v2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.madariran.filegear-sg.me",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
@@ -398,9 +391,9 @@
         {
             "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 7",
             "type": "vmess",
-            "server": "caretaker.com",
+            "server": "172.67.175.56",
             "server_port": 443,
-            "uuid": "441da342-ce90-441e-bff9-d2ceb55e68ca",
+            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -413,7 +406,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "mikasa.yaemiko.cloudns.org",
+                "server_name": "obdii.cfd",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -423,16 +416,16 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/ivideos.sbs\/linkws",
+                "path": "\/linkws",
                 "headers": {
-                    "Host": "mikasa.yaemiko.cloudns.org"
+                    "Host": "obdii.cfd"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 8",
             "type": "vmess",
-            "server": "104.26.6.65",
+            "server": "caretaker.com",
             "server_port": 443,
             "uuid": "441da342-ce90-441e-bff9-d2ceb55e68ca",
             "security": "auto",
