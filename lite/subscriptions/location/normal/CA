@@ -15,5 +15,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q0EgfCBcdWQ4M2RcdWRm
 ss://ZDdiYmZlODMtYjAzNy00OGFlLTk5NmMtYjk4ZWQwNDQxYmEyOg==@188.114.97.141:443#🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 17
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18
 vless://cb2effa0-e49c-49d3-aee6-c7e3e1f38922@fdcservers.net.:443?path=/vless?ed&security=tls&encryption=none&alpn=http/1.1&host=at1.vless.site&type=ws&sni=at1.vless.site#🇨🇦CA | 🔴 | vless | @Outline_Vpn | 19
-vless://142c4d44-9cbd-4495-bdce-9348472631d4@137.220.53.55:80?security=none&encryption=none&headerType=none&type=tcp#🇨🇦CA | 🔴 | vless | @DailyV2RY | 83
+vless://142c4d44-9cbd-4495-bdce-9348472631d4@137.220.53.55:80?security=none&encryption=none&headerType=none&type=tcp#🇨🇦CA | 🔴 | vless | @DailyV2RY | 89
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.181:4444#🇨🇦CA | 🟢 | ss | @OutlineVpnOfficial | 16
