@@ -128,7 +128,7 @@
                 "🚩CF | 🟢 | vmess | @customv2ray | 12",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇷🇺RU | 🟢 | vmess | @ShadowProxy66 | 11",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 12",
+                "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 12",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 13",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 17",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 18",
@@ -140,6 +140,7 @@
                 "❔XX | 🟢 | vmess | @DailyV2RY | 55",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 61",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 79",
+                "🚩CF | 🟢 | vmess | @ConfigsHUB | 18",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -195,7 +196,7 @@
                 "🚩CF | 🟢 | vmess | @customv2ray | 12",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇷🇺RU | 🟢 | vmess | @ShadowProxy66 | 11",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 12",
+                "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 12",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 13",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 17",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 18",
@@ -207,6 +208,7 @@
                 "❔XX | 🟢 | vmess | @DailyV2RY | 55",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 61",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 79",
+                "🚩CF | 🟢 | vmess | @ConfigsHUB | 18",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -771,7 +773,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 12",
+            "tag": "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 12",
             "type": "vmess",
             "server": "zula.ir",
             "server_port": 443,
@@ -1041,6 +1043,40 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vmess | @ConfigsHUB | 18",
+            "type": "vmess",
+            "server": "172.67.164.164",
+            "server_port": 443,
+            "uuid": "a1655f51-1e20-4a92-8a11-b7ca30a7a353",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "afrhms07.xfixedfloat.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "afrhms07.xfixedfloat.cfd"
+                }
             }
         },
         {
