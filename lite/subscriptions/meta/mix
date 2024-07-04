@@ -174,8 +174,7 @@ proxies:
   - {"name":"🇸🇪SE | 🔴 | vless | @DailyV2RY | 100","type":"vless","server":"185.146.173.37","port":80,"udp":false,"uuid":"1759dd49-3e82-4abb-a9ea-0b097037e09d","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048","headers":{"host":"1.v.v.V-_-_-V2ray-_-_-V.v.v.mv.speedtest.net.www.Zula.ir.check-host.net.2.cakesfoodapp.COM."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @sinabigo | 3","type":"vless","server":"www.Speedtest.Net","port":2095,"udp":false,"uuid":"cfb6d9ad-7a14-4061-b159-8902fd73bb53","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024","headers":{"host":"www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website."}}}
   - {"name":"🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 18","type":"ss","server":"141.98.234.8","port":1080,"password":"3pURuTUf-lFgg5qWg8euFA","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸US | 🔴 | vless | @ConfigsHUB | 18","type":"vless","server":"188.114.97.141","port":443,"udp":false,"uuid":"d7bbfe83-b037-48ae-996c-b98ed0441ba2","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"e10c0e4b.oodaeq2.pages.dev","ws-opts":{"path":"/TELEGRAM-MARAMBASHI-MARAMBASHI/?ed=2048","headers":{"host":"e10c0e4b.oodaeq2.pages.dev"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @ConfigsHUB | 19","type":"vless","server":"172.64.111.69","port":443,"udp":false,"uuid":"d9eb0df3-3190-4447-86b6-656fe5ff1119","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"mmdv2.pages.dev","ws-opts":{"path":"/TELEGRAM-MARAMBASHI-MARAMBASHI/?ed=2048","headers":{"host":"mmdv2.pages.dev"}}}
+  - {"name":"🇸🇪SE | 🔴 | vless | @ConfigsHUB | 18","type":"vless","server":"185.146.173.37","port":443,"udp":false,"uuid":"24166122-2e99-491e-9fae-11310aa18068","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"xn--mgbaasql3ledele.pinocchio1.ir.","grpc-opts":{"grpc-service-name":""}}
   - {"name":"🇨🇳CN | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 3","type":"vmess","server":"mci.mosi.mosipro.ml","port":"443","cipher":"auto","uuid":"4c2a6b41-3138-43fe-aaa6-222a3b0600ee","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/speedtest","headers":{"host":"Dusseldorf.kotick.site"}}}
   - {"name":"🇸🇬SG | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"sg-full.privateip.net","port":"443","cipher":"auto","uuid":"ecb90d6e-1bbf-42ec-a742-822fad6936da","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/RACEVPN","headers":{"host":""}}}
@@ -268,8 +267,7 @@ proxy-groups:
       - '🇸🇪SE | 🔴 | vless | @DailyV2RY | 100'
       - '🇺🇸US | 🔴 | vless | @sinabigo | 3'
       - '🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 18'
-      - '🇺🇸US | 🔴 | vless | @ConfigsHUB | 18'
-      - '🇺🇸US | 🔴 | vless | @ConfigsHUB | 19'
+      - '🇸🇪SE | 🔴 | vless | @ConfigsHUB | 18'
       - '🇨🇳CN | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 3'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 4'
@@ -362,8 +360,7 @@ proxy-groups:
       - '🇸🇪SE | 🔴 | vless | @DailyV2RY | 100'
       - '🇺🇸US | 🔴 | vless | @sinabigo | 3'
       - '🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 18'
-      - '🇺🇸US | 🔴 | vless | @ConfigsHUB | 18'
-      - '🇺🇸US | 🔴 | vless | @ConfigsHUB | 19'
+      - '🇸🇪SE | 🔴 | vless | @ConfigsHUB | 18'
       - '🇨🇳CN | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 3'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 4'
@@ -455,8 +452,7 @@ proxy-groups:
       - '🇸🇪SE | 🔴 | vless | @DailyV2RY | 100'
       - '🇺🇸US | 🔴 | vless | @sinabigo | 3'
       - '🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 18'
-      - '🇺🇸US | 🔴 | vless | @ConfigsHUB | 18'
-      - '🇺🇸US | 🔴 | vless | @ConfigsHUB | 19'
+      - '🇸🇪SE | 🔴 | vless | @ConfigsHUB | 18'
       - '🇨🇳CN | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 3'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 4'

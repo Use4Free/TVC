@@ -169,8 +169,7 @@
                 "🇺🇸US | 🔴 | vless | @sinabigo | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 30",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 31",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 4",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 6",
@@ -268,8 +267,7 @@
                 "🇺🇸US | 🔴 | vless | @sinabigo | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 30",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 31",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 4",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 6",
@@ -1845,11 +1843,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "188.114.97.141",
-            "server_port": 443,
-            "uuid": "d7bbfe83-b037-48ae-996c-b98ed0441ba2",
+            "server": "zula.ir",
+            "server_port": 80,
+            "uuid": "Telegram-ExpressVPN_420",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1857,52 +1855,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "e10c0e4b.oodaeq2.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/TELEGRAM-MARAMBASHI-MARAMBASHI\/",
+                "path": "\/telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420",
                 "headers": {
-                    "Host": "e10c0e4b.oodaeq2.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "172.64.111.69",
-            "server_port": 443,
-            "uuid": "d9eb0df3-3190-4447-86b6-656fe5ff1119",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mmdv2.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TELEGRAM-MARAMBASHI-MARAMBASHI\/",
-                "headers": {
-                    "Host": "mmdv2.pages.dev"
+                    "Host": "zula.ir"
                 }
             }
         },
