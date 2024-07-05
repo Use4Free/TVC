@@ -148,7 +148,8 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 16",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 17",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 12",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 10",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 16",
                 "🇲🇾MY | 🔴 | vless | @v2rayNG_Matsuri | 17",
                 "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 0",
@@ -166,10 +167,11 @@
                 "🇳🇴NO | 🟢 | vless | @VmessProtocol | 9",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 99",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 100",
-                "🇺🇸US | 🔴 | vless | @sinabigo | 3",
+                "🇺🇸US | 🔴 | vless | @sinabigo | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 30",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 31",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 4",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 6",
@@ -246,7 +248,8 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 16",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 17",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 12",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 10",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 16",
                 "🇲🇾MY | 🔴 | vless | @v2rayNG_Matsuri | 17",
                 "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 0",
@@ -264,10 +267,11 @@
                 "🇳🇴NO | 🟢 | vless | @VmessProtocol | 9",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 99",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 100",
-                "🇺🇸US | 🔴 | vless | @sinabigo | 3",
+                "🇺🇸US | 🔴 | vless | @sinabigo | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 30",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 31",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 4",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 6",
@@ -1319,11 +1323,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 10",
             "type": "vless",
-            "server": "104.21.78.161",
+            "server": "104.17.227.99",
             "server_port": 8080,
-            "uuid": "b756e451-7eb1-40d5-8d2d-79daebdd2531",
+            "uuid": "81bacd5e-b64e-498f-969f-799bbe7d847a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1335,7 +1339,28 @@
                 "type": "ws",
                 "path": "\/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080",
                 "headers": {
-                    "Host": "104.21.78.161"
+                    "Host": "104.17.227.99"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 11",
+            "type": "vless",
+            "server": "104.17.35.37",
+            "server_port": 8080,
+            "uuid": "2b59f595-bc0e-4642-a542-e8e0fc8926b6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080",
+                "headers": {
+                    "Host": "104.17.35.37"
                 }
             }
         },
@@ -1780,7 +1805,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @sinabigo | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @sinabigo | 4",
             "type": "vless",
             "server": "www.Speedtest.Net",
             "server_port": 2095,
@@ -1843,11 +1868,42 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "zula.ir",
+            "server": "104.18.41.138",
+            "server_port": 8443,
+            "uuid": "9a39f63e-28c8-4560-af18-b01b9916ef1b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "pardazesh-tgws.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net",
+                "headers": {
+                    "Host": "pardazesh-tgws.pages.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "eagle.Hafezdivan.Online.",
             "server_port": 80,
-            "uuid": "Telegram-ExpressVPN_420",
+            "uuid": "c416be20-32b3-467f-83c2-735e04d639f7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1857,9 +1913,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420",
+                "path": "\/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net\/",
                 "headers": {
-                    "Host": "zula.ir"
+                    "Host": "eagle.Hafezdivan.Online."
                 }
             }
         },
