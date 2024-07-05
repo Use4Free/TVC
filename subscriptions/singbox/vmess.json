@@ -127,10 +127,9 @@
                 "🇷🇺RU | 🟢 | vmess | @prrofile_purple | 149",
                 "🚩CF | 🟢 | vmess | @customv2ray | 12",
                 "🚩CF | 🟢 | vmess | @v2ray1_ng | 6",
-                "❔XX | 🟢 | vmess | @DailyV2RY | 66",
-                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 83",
-                "🇲🇾MY | 🟢 | vmess | @ConfigsHUB | 7",
-                "🇮🇷IR | 🟢 | vmess | @ConfigsHUB | 19",
+                "❔XX | 🟢 | vmess | @DailyV2RY | 65",
+                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 89",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 0",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -143,7 +142,7 @@
                 "🚩CF | 🟢 | vmess | @v2rayng_config_amin | 0",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 1",
-                "🇬🇧GB | 🟢 | vmess | @v2Line | 3",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 3",
                 "🇳🇱NL | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @nofiltering2 | 2",
                 "🇺🇸US | 🟢 | vmess | @SINABIGO | 5",
@@ -178,10 +177,9 @@
                 "🇷🇺RU | 🟢 | vmess | @prrofile_purple | 149",
                 "🚩CF | 🟢 | vmess | @customv2ray | 12",
                 "🚩CF | 🟢 | vmess | @v2ray1_ng | 6",
-                "❔XX | 🟢 | vmess | @DailyV2RY | 66",
-                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 83",
-                "🇲🇾MY | 🟢 | vmess | @ConfigsHUB | 7",
-                "🇮🇷IR | 🟢 | vmess | @ConfigsHUB | 19",
+                "❔XX | 🟢 | vmess | @DailyV2RY | 65",
+                "🇺🇸US | 🟢 | vmess | @DailyV2RY | 89",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 0",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -194,7 +192,7 @@
                 "🚩CF | 🟢 | vmess | @v2rayng_config_amin | 0",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 1",
-                "🇬🇧GB | 🟢 | vmess | @v2Line | 3",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 3",
                 "🇳🇱NL | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @nofiltering2 | 2",
                 "🇺🇸US | 🟢 | vmess | @SINABIGO | 5",
@@ -719,7 +717,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @DailyV2RY | 66",
+            "tag": "❔XX | 🟢 | vmess | @DailyV2RY | 65",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -736,7 +734,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @DailyV2RY | 83",
+            "tag": "🇺🇸US | 🟢 | vmess | @DailyV2RY | 89",
             "type": "vmess",
             "server": "108.61.205.144",
             "server_port": 8881,
@@ -753,35 +751,11 @@
             }
         },
         {
-            "tag": "🇲🇾MY | 🟢 | vmess | @ConfigsHUB | 7",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 0",
             "type": "vmess",
-            "server": "38.54.97.110",
-            "server_port": 5565,
-            "uuid": "1d4dbe77-4945-4b18-85a9-6ab88385d1b9",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/arki",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🟢 | vmess | @ConfigsHUB | 19",
-            "type": "vmess",
-            "server": "2.189.59.2",
+            "server": "zula.ir",
             "server_port": 443,
-            "uuid": "62aa5f80-0328-4004-a375-7f5a59df4022",
+            "uuid": "950db6aa-4926-4616-816e-ec0312dcb87b",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -794,7 +768,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "pages.dev",
+                "server_name": "jahfkjha.cfd",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -804,9 +778,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram\/XV2ray",
+                "path": "\/linkws",
                 "headers": {
-                    "Host": "pages.dev"
+                    "Host": "jahfkjha.cfd"
                 }
             }
         },
@@ -1172,7 +1146,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vmess | @v2Line | 3",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 3",
             "type": "vmess",
             "server": "217.160.45.31",
             "server_port": 8880,
