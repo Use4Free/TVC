@@ -175,8 +175,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @sinabigo | 4","type":"vless","server":"www.Speedtest.Net","port":2095,"udp":false,"uuid":"cfb6d9ad-7a14-4061-b159-8902fd73bb53","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024","headers":{"host":"www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website."}}}
   - {"name":"🇭🇺HU | 🟢 | ss | @OutlineVpnOfficial | 18","type":"ss","server":"38.180.19.118","port":1080,"password":"3pURuTUf-lFgg5qWg8euFA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 19","type":"ss","server":"141.98.234.8","port":1080,"password":"3pURuTUf-lFgg5qWg8euFA","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇲🇾MY | 🔴 | vless | @ConfigsHUB | 17","type":"vless","server":"172.66.46.251","port":443,"udp":false,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"bBF9c21A.tECHNeTbpb.paGEs.Dev","ws-opts":{"path":"/","headers":{"host":"bBF9c21A.tECHNeTbpb.paGEs.Dev"}}}
-  - {"name":"🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18","type":"vless","server":"172.66.47.126","port":443,"udp":false,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"00e463Dc.beSTVPn-4xi.PAgES.dEv","ws-opts":{"path":"/yuyg5ujoovohfscy?ed=2560","headers":{"host":"00e463Dc.beSTVPn-4xi.PAgES.dEv"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @ConfigsHUB | 18","type":"vless","server":"162.159.152.152","port":443,"udp":false,"uuid":"6d876625-81cb-4b66-9098-924ae3bb993e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"join-v2rey.pages.dev","ws-opts":{"path":"/---------DisVpn---------DisVpn---------DisVpn","headers":{"host":"join-v2rey.pages.dev"}}}
   - {"name":"🇨🇳CN | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 3","type":"vmess","server":"mci.mosi.mosipro.ml","port":"443","cipher":"auto","uuid":"4c2a6b41-3138-43fe-aaa6-222a3b0600ee","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/speedtest","headers":{"host":"Dusseldorf.kotick.site"}}}
   - {"name":"🇸🇬SG | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"sg-full.privateip.net","port":"443","cipher":"auto","uuid":"ecb90d6e-1bbf-42ec-a742-822fad6936da","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/RACEVPN","headers":{"host":""}}}
@@ -269,8 +268,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @sinabigo | 4'
       - '🇭🇺HU | 🟢 | ss | @OutlineVpnOfficial | 18'
       - '🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 19'
-      - '🇲🇾MY | 🔴 | vless | @ConfigsHUB | 17'
-      - '🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18'
+      - '🇺🇸US | 🔴 | vless | @ConfigsHUB | 18'
       - '🇨🇳CN | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 3'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 4'
@@ -363,8 +361,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @sinabigo | 4'
       - '🇭🇺HU | 🟢 | ss | @OutlineVpnOfficial | 18'
       - '🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 19'
-      - '🇲🇾MY | 🔴 | vless | @ConfigsHUB | 17'
-      - '🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18'
+      - '🇺🇸US | 🔴 | vless | @ConfigsHUB | 18'
       - '🇨🇳CN | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 3'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 4'
@@ -456,8 +453,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @sinabigo | 4'
       - '🇭🇺HU | 🟢 | ss | @OutlineVpnOfficial | 18'
       - '🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 19'
-      - '🇲🇾MY | 🔴 | vless | @ConfigsHUB | 17'
-      - '🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18'
+      - '🇺🇸US | 🔴 | vless | @ConfigsHUB | 18'
       - '🇨🇳CN | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 3'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 4'

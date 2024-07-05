@@ -180,8 +180,8 @@
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 31",
                 "🇭🇺HU | 🟢 | ss | @OutlineVpnOfficial | 18",
                 "🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 19",
-                "🇲🇾MY | 🔴 | vless | @ConfigsHUB | 17",
-                "🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 4",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -303,8 +303,8 @@
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 31",
                 "🇭🇺HU | 🟢 | ss | @OutlineVpnOfficial | 18",
                 "🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 19",
-                "🇲🇾MY | 🔴 | vless | @ConfigsHUB | 17",
-                "🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 4",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
@@ -2115,11 +2115,11 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇲🇾MY | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "172.66.46.251",
+            "server": "162.159.152.152",
             "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "uuid": "6d876625-81cb-4b66-9098-924ae3bb993e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2129,7 +2129,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "bBF9c21A.tECHNeTbpb.paGEs.Dev",
+                "server_name": "join-v2rey.pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -2139,18 +2139,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/---------DisVpn---------DisVpn---------DisVpn",
                 "headers": {
-                    "Host": "bBF9c21A.tECHNeTbpb.paGEs.Dev"
+                    "Host": "join-v2rey.pages.dev"
                 }
             }
         },
         {
-            "tag": "🇲🇾MY | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "172.66.47.126",
-            "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "server": "104.24.185.137",
+            "server_port": 8080,
+            "uuid": "Parsashonam-6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2158,22 +2158,12 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "00e463Dc.beSTVPn-4xi.PAgES.dEv",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
-                "type": "ws",
-                "path": "\/yuyg5ujoovohfscy?ed=2560",
-                "headers": {
-                    "Host": "00e463Dc.beSTVPn-4xi.PAgES.dEv"
-                }
+                "type": "grpc",
+                "service_name": "@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
