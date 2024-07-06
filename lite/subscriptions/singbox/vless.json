@@ -112,6 +112,7 @@
                 "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 32",
                 "🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 33",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 10",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 11",
@@ -142,7 +143,7 @@
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 46",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 47",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 181",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 182",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 14",
@@ -164,8 +165,7 @@
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 9",
                 "🇳🇴NO | 🟢 | vless | @VmessProtocol | 10",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 99",
-                "🇨🇳CN | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇨🇷CR | 🔴 | vless | @proxystore11 | 3",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 4",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -208,6 +208,7 @@
                 "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 32",
                 "🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 33",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 10",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 11",
@@ -238,7 +239,7 @@
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 46",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 47",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 181",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 182",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 14",
@@ -260,8 +261,7 @@
                 "🇸🇪SE | 🔴 | vless | @VmessProtocol | 9",
                 "🇳🇴NO | 🟢 | vless | @VmessProtocol | 10",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 99",
-                "🇨🇳CN | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇨🇷CR | 🔴 | vless | @proxystore11 | 3",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 4",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -466,6 +466,27 @@
                 "path": "\/telegram-channel-vlessconfig-ws",
                 "headers": {
                     "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 32",
+            "type": "vless",
+            "server": "zula.ir",
+            "server_port": 8080,
+            "uuid": "Join_Bede_VPNCUSTOMIZE",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Join--VPNCUSTOMIZE.V2ray.re?ed=8080",
+                "headers": {
+                    "Host": "zula.ir"
                 }
             }
         },
@@ -1176,7 +1197,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
             "type": "vless",
             "server": "188.114.97.3",
             "server_port": 443,
@@ -1704,11 +1725,11 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "103.184.44.158",
-            "server_port": 443,
-            "uuid": "52ed8850-ee79-4c55-90b6-1d6e5c29e160",
+            "server": "188.114.98.223",
+            "server_port": 2095,
+            "uuid": "cfb6d9ad-7a14-4061-b159-8902fd73bb58",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1716,52 +1737,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "66.811243165.xyz",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/graphql",
+                "path": "\/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024",
                 "headers": {
-                    "Host": "66.811243165.xyz"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "104.18.202.232",
-            "server_port": 443,
-            "uuid": "17a7bf97-fef5-4101-a5c5-7c730fabeeee",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bpb-worker-panel-h5f.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "bpb-worker-panel-h5f.pages.dev"
+                    "Host": "188.114.98.223"
                 }
             }
         },
