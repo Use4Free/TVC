@@ -109,7 +109,7 @@
                 "🚩CF | 🟢 | vmess | @V2rayCollectorDonate | 2",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
-                "🇨🇷CR | 🟢 | vmess | @mftizi | 1",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 1",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 2",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 4",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
@@ -130,6 +130,7 @@
                 "🇨🇭CH | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🚩CF | 🟢 | vmess | @prrofile_purple | 146",
+                "🇷🇺RU | 🟢 | vmess | @prrofile_purple | 176",
                 "🚩CF | 🟢 | vmess | @customv2ray | 12",
                 "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 2",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 3",
@@ -163,7 +164,7 @@
                 "🚩CF | 🟢 | vmess | @V2rayCollectorDonate | 2",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
-                "🇨🇷CR | 🟢 | vmess | @mftizi | 1",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 1",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 2",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 4",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
@@ -184,6 +185,7 @@
                 "🇨🇭CH | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🚩CF | 🟢 | vmess | @prrofile_purple | 146",
+                "🇷🇺RU | 🟢 | vmess | @prrofile_purple | 176",
                 "🚩CF | 🟢 | vmess | @customv2ray | 12",
                 "🇫🇷FR | 🟢 | vmess | @ShadowProxy66 | 2",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 3",
@@ -298,7 +300,7 @@
             }
         },
         {
-            "tag": "🇨🇷CR | 🟢 | vmess | @mftizi | 1",
+            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 1",
             "type": "vmess",
             "server": "cfcdn1.sanfencdn9.com",
             "server_port": 2052,
@@ -783,6 +785,23 @@
                 "headers": {
                     "Host": "afrhms16v.bestxray.buzz"
                 }
+            }
+        },
+        {
+            "tag": "🇷🇺RU | 🟢 | vmess | @prrofile_purple | 176",
+            "type": "vmess",
+            "server": "46.17.42.246",
+            "server_port": 35049,
+            "uuid": "43cf1a56-26d9-4ed9-8f93-c7fd10714384",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
