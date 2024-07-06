@@ -119,9 +119,12 @@ dns:
 
 proxies:
   - {"name":"🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 18","type":"vmess","server":"183.238.202.173","port":"51193","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦CA | 🟢 | vmess | @mftizi | 18","type":"vmess","server":"cfcdn3.sanfencdn9.com","port":"2052","cipher":"auto","uuid":"3c5046b4-1a9c-427c-8a55-e355846a9e4a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/Zo98PYfE","headers":{"host":"kvjqqknzjp6.yofnhkfc.xyz"}}}
+  - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 19","type":"vmess","server":"183.238.202.173","port":"51193","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 3","type":"vmess","server":"23.162.152.6","port":"22324","cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US | 🟢 | vmess | @customv2ray | 17","type":"vmess","server":"104.16.219.108","port":"80","cipher":"auto","uuid":"950db6aa-4926-4616-816e-ec0312dcb87b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/Telegram/XV2ray","headers":{"host":"rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.V2ray.com.shw2.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net."}}}
+  - {"name":"🇨🇦CA | 🟢 | vmess | @customv2ray | 17","type":"vmess","server":"104.16.219.108","port":"80","cipher":"auto","uuid":"950db6aa-4926-4616-816e-ec0312dcb87b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/Telegram/XV2ray","headers":{"host":"rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.V2ray.com.shw2.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net."}}}
+  - {"name":"🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14","type":"vmess","server":"141.101.115.19","port":"80","cipher":"none","uuid":"2ac4e269-1576-4f41-8c0d-6242e3c5fd8c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"1270.0.1.dl3.烏克爾拯救聖誕老人電影.yркельпасаетcанту.фильм.urkel.烏克爾救援.wonkacapitano.buzz."}}}
+  - {"name":"🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15","type":"vmess","server":"172.67.164.164","port":"443","cipher":"auto","uuid":"a1655f51-1e20-4a92-8a11-b7ca30a7a353","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"afrhms07.xfixedfloat.cfd"}}}
   - {"name":"🇨🇳CN | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"🇸🇬SG | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"sg-full.privateip.net","port":"443","cipher":"auto","uuid":"ecb90d6e-1bbf-42ec-a742-822fad6936da","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/RACEVPN","headers":{"host":""}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 5","type":"vmess","server":"mci.mosi.mosipro.ml","port":"443","cipher":"auto","uuid":"3f197280-7b21-4f39-b763-4bb004e8021f","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/speedtest","headers":{"host":"Dusseldorf.kotick.site"}}}
@@ -136,9 +139,12 @@ proxy-groups:
       - URL-TEST
       - FALLBACK
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
-      - '🇨🇳CN | 🟢 | vmess | @mftizi | 18'
+      - '🇨🇦CA | 🟢 | vmess | @mftizi | 18'
+      - '🇨🇳CN | 🟢 | vmess | @mftizi | 19'
       - '🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 3'
-      - '🇺🇸US | 🟢 | vmess | @customv2ray | 17'
+      - '🇨🇦CA | 🟢 | vmess | @customv2ray | 17'
+      - '🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14'
+      - '🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15'
       - '🇨🇳CN | 🟢 | vmess | @yaney_01 | 4'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 5'
@@ -153,9 +159,12 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
-      - '🇨🇳CN | 🟢 | vmess | @mftizi | 18'
+      - '🇨🇦CA | 🟢 | vmess | @mftizi | 18'
+      - '🇨🇳CN | 🟢 | vmess | @mftizi | 19'
       - '🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 3'
-      - '🇺🇸US | 🟢 | vmess | @customv2ray | 17'
+      - '🇨🇦CA | 🟢 | vmess | @customv2ray | 17'
+      - '🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14'
+      - '🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15'
       - '🇨🇳CN | 🟢 | vmess | @yaney_01 | 4'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 5'
@@ -169,9 +178,12 @@ proxy-groups:
     interval: 60
     proxies:
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
-      - '🇨🇳CN | 🟢 | vmess | @mftizi | 18'
+      - '🇨🇦CA | 🟢 | vmess | @mftizi | 18'
+      - '🇨🇳CN | 🟢 | vmess | @mftizi | 19'
       - '🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 3'
-      - '🇺🇸US | 🟢 | vmess | @customv2ray | 17'
+      - '🇨🇦CA | 🟢 | vmess | @customv2ray | 17'
+      - '🇺🇸US | 🟢 | vmess | @ConfigsHUB | 14'
+      - '🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15'
       - '🇨🇳CN | 🟢 | vmess | @yaney_01 | 4'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 5'
