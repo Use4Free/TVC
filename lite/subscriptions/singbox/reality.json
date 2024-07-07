@@ -109,9 +109,10 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇰🇷KR | 🔴 | vless | @Watashi_VPN | 0",
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
-                "🇩🇪DE | 🔴 | vless | @proxy_mtm | 0",
+                "🇩🇪DE | 🔴 | vless | @flyv2ray | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -123,9 +124,10 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇰🇷KR | 🔴 | vless | @Watashi_VPN | 0",
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
+                "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
-                "🇩🇪DE | 🔴 | vless | @proxy_mtm | 0",
+                "🇩🇪DE | 🔴 | vless | @flyv2ray | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -237,6 +239,42 @@
             }
         },
         {
+            "tag": "🇫🇷FR | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "217.69.6.24",
+            "server_port": 443,
+            "uuid": "ce5b494d-4a57-4873-a632-8b4f8625179b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn.discordapp.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HE1w37dsB_bntFV6QIDmlXIcx7ZUTgw9b3hahBommVo",
+                    "short_id": "71dbea41"
+                }
+            },
+            "transport": {
+                "type": "http",
+                "host": [
+                    "cdn.discordapp.com"
+                ],
+                "path": "\/"
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | @Capital_NET | 44",
             "type": "vless",
             "server": "ec76.kiava.fun",
@@ -295,11 +333,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @proxy_mtm | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @flyv2ray | 8",
             "type": "vless",
-            "server": "188.245.38.34",
+            "server": "188.245.69.77",
             "server_port": 443,
-            "uuid": "3b8be01d-e1db-4d8b-8ef2-f88fc373dac6",
+            "uuid": "Telegram-ipV2Ray-kpj",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -318,13 +356,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "J3OZsgCJTWcl0283D6Teo7ZH-6d5GMR_CsFvN3bNmh0",
-                    "short_id": "453b87fe"
+                    "public_key": "hbXVj1uC8AjgQrJMOPqkL3DqNKByyweB2SrbeRQ_6Xw",
+                    "short_id": "b1c8e3fa"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM-Telegram-Proxy_MTM",
+                "service_name": "Telegram-ipV2Ray",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
