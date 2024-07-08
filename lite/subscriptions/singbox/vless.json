@@ -146,7 +146,7 @@
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 41",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 42",
                 "🇫🇮FI | 🔴 | vless | @Outline_Vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 179",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 180",
                 "🇸🇪SE | 🔴 | vless | @customv2ray | 16",
@@ -175,8 +175,6 @@
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 27",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 28",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 3",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -253,7 +251,7 @@
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 41",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 42",
                 "🇫🇮FI | 🔴 | vless | @Outline_Vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 179",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 180",
                 "🇸🇪SE | 🔴 | vless | @customv2ray | 16",
@@ -282,8 +280,6 @@
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 27",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 28",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 3",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -1305,7 +1301,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
             "type": "vless",
             "server": "172.66.45.32",
             "server_port": 443,
@@ -2008,68 +2004,6 @@
                 "path": "\/Join--VPNCUSTOMIZE.V2ray.re?ed=8080",
                 "headers": {
                     "Host": "VPNCUSTOMIZE.Elmahstyle.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "104.17.239.159",
-            "server_port": 443,
-            "uuid": "e72aa3f9-7453-45b2-8f02-45c1f4953d80",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "kana-lma-falcunargo.jabec44039.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed\/TELEGRAM-MARAMBASHI-MARAMBASHI\/",
-                "headers": {
-                    "Host": "kana-lma-falcunargo.jabec44039.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "172.64.87.52",
-            "server_port": 443,
-            "uuid": "d9eb0df3-3190-4447-86b6-656fe5ff1119",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mmdv2.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TELEGRAM-MARAMBASHI-MARAMBASHI\/",
-                "headers": {
-                    "Host": "mmdv2.pages.dev"
                 }
             }
         },
