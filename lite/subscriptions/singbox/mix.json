@@ -186,8 +186,8 @@
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 28",
                 "🇨🇦CA | 🟢 | ss | @OutlineVpnOfficial | 18",
                 "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 19",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -312,8 +312,8 @@
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 28",
                 "🇨🇦CA | 🟢 | ss | @OutlineVpnOfficial | 18",
                 "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 19",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 2",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 3",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -2257,40 +2257,11 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "141.95.75.212",
+            "server": "eagle.hafezdivan.online.",
             "server_port": 443,
-            "uuid": "200e059b-51ec-4825-8e95-5e49db5d22ad",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "analytics.google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU",
-                    "short_id": "c741ad33"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "172.66.44.55",
-            "server_port": 443,
-            "uuid": "104380d8-f859-421a-bd11-29b2c9fbfa99",
+            "uuid": "c416be20-32b3-467f-83c2-735e04d639f7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2300,7 +2271,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "famil-5c8.pages.dev",
+                "server_name": "eagle.hafezdivan.online.",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -2310,9 +2281,30 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/TELEGRAM-@MARAMBASHI-MARAMBASHI\/?ed=2560",
                 "headers": {
-                    "Host": "famil-5c8.pages.dev"
+                    "Host": "eagle.hafezdivan.online."
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "zula.ir",
+            "server_port": 2095,
+            "uuid": "--DIGIV2RAY--",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/DigiconnecT?ed=1024",
+                "headers": {
+                    "Host": "zula.ir"
                 }
             }
         },
