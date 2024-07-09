@@ -367,7 +367,7 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 145",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 146",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 147",
-                "🇰🇿KZ | 🔴 | vless | @prrofile_purple | 148",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 149",
                 "🇸🇬SG | 🔴 | vless | @prrofile_purple | 150",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 151",
@@ -543,8 +543,8 @@
                 "🚩CF | 🔴 | vless | @DailyV2RY | 121",
                 "🇸🇪SE | 🔴 | vless | @sinabigo | 1",
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 5",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 7",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 8",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 1",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 4",
@@ -928,7 +928,7 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 145",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 146",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 147",
-                "🇰🇿KZ | 🔴 | vless | @prrofile_purple | 148",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 149",
                 "🇸🇬SG | 🔴 | vless | @prrofile_purple | 150",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 151",
@@ -1104,8 +1104,8 @@
                 "🚩CF | 🔴 | vless | @DailyV2RY | 121",
                 "🇸🇪SE | 🔴 | vless | @sinabigo | 1",
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 5",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 7",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 8",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 1",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 4",
@@ -7449,7 +7449,7 @@
             }
         },
         {
-            "tag": "🇰🇿KZ | 🔴 | vless | @prrofile_purple | 148",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 148",
             "type": "vless",
             "server": "cdnchen.sharesite.ir",
             "server_port": 443,
@@ -11921,7 +11921,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 7",
             "type": "vless",
             "server": "104.18.84.115",
             "server_port": 443,
@@ -11952,7 +11952,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 5",
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 8",
             "type": "vless",
             "server": "104.18.202.232",
             "server_port": 443,
