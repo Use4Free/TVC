@@ -145,8 +145,8 @@
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 36",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 37",
                 "🇫🇮FI | 🔴 | vless | @Outline_Vpn | 17",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 181",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 181",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 182",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 15",
@@ -172,8 +172,8 @@
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 127",
                 "🇸🇪SE | 🔴 | vless | @sinabigo | 1",
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -248,8 +248,8 @@
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 36",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 37",
                 "🇫🇮FI | 🔴 | vless | @Outline_Vpn | 17",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 181",
+                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @prrofile_purple | 181",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 182",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 15",
@@ -275,8 +275,8 @@
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 127",
                 "🇸🇪SE | 🔴 | vless | @sinabigo | 1",
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -1281,7 +1281,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
             "type": "vless",
             "server": "172.66.45.32",
             "server_port": 443,
@@ -1312,7 +1312,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 181",
+            "tag": "🇨🇦CA | 🔴 | vless | @prrofile_purple | 181",
             "type": "vless",
             "server": "172.66.45.32",
             "server_port": 443,
@@ -1949,7 +1949,28 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "www.Speedtest.Net",
+            "server_port": 2095,
+            "uuid": "---DIGIV2RAY--",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/DigiconnecT?ed=1024",
+                "headers": {
+                    "Host": "www.Speedtest.Net"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
             "server": "185.146.173.68",
             "server_port": 2095,
@@ -1966,37 +1987,6 @@
                 "path": "\/DigiconnecT?ed=1024",
                 "headers": {
                     "Host": "185.146.173.68"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "172.64.146.118",
-            "server_port": 8443,
-            "uuid": "ecc19b72-2cc8-4690-b23d-960d3e3c6d40",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "pardazeshvpn-tg24.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Bia-Kanal-@Free_V2rng",
-                "headers": {
-                    "Host": "pardazeshvpn-tg24.pages.dev"
                 }
             }
         },
