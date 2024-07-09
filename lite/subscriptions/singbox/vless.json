@@ -132,8 +132,8 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 27",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 28",
+                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
                 "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 3",
                 "🇨🇦CA | 🔴 | vless | @v2logy | 11",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 12",
                 "🇰🇷KR | 🔴 | vless | @Watashi_VPN | 0",
@@ -235,8 +235,8 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 27",
                 "🇸🇪SE | 🔴 | vless | @DigiV2ray | 28",
+                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
                 "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 3",
                 "🇨🇦CA | 🔴 | vless | @v2logy | 11",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 12",
                 "🇰🇷KR | 🔴 | vless | @Watashi_VPN | 0",
@@ -947,7 +947,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "172.66.46.224",
             "server_port": 443,
@@ -978,7 +978,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 3",
+            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "172.66.46.251",
             "server_port": 443,
@@ -1951,30 +1951,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "www.Speedtest.Net",
-            "server_port": 2095,
-            "uuid": "---DIGIV2RAY--",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/DigiconnecT?ed=1024",
-                "headers": {
-                    "Host": "www.Speedtest.Net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "104.17.83.58",
-            "server_port": 443,
-            "uuid": "d9eb0df3-3190-4447-86b6-656fe5ff1119",
+            "server": "www.speedtest.net",
+            "server_port": 2087,
+            "uuid": "4afd7fc1-83af-4d9b-9f1d-3322d0984846",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1984,7 +1963,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "mmdv2.pages.dev",
+                "server_name": "LiV2ry.lightning1.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1994,9 +1973,30 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/TElEGRAM-MARAMBASHI-MARAMBASHI",
+                "path": "\/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray",
                 "headers": {
-                    "Host": "mmdv2.pages.dev"
+                    "Host": "LiV2ry.lightning1.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "53ebdb18-27ff-477b-9232-ad2d53a23b7b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },
