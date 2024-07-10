@@ -110,6 +110,8 @@
                 "🇰🇷KR | 🔴 | vless | @Watashi_VPN | 0",
                 "🇹🇷TR | 🟢 | vless | @Outline_Vpn | 17",
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
+                "🇳🇴NO | 🔴 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -124,6 +126,8 @@
                 "🇰🇷KR | 🔴 | vless | @Watashi_VPN | 0",
                 "🇹🇷TR | 🟢 | vless | @Outline_Vpn | 17",
                 "🇳🇱NL | 🔴 | vless | @sinabigo | 2",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
+                "🇳🇴NO | 🔴 | vless | @ConfigsHUB | 18",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -252,6 +256,64 @@
             "tls": {
                 "enabled": true,
                 "server_name": "cdn.discordapp.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "91.107.145.93",
+            "server_port": 8443,
+            "uuid": "4692cfc1-8ae4-40f4-9b56-38280de488ee",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "canva.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wgTq2PPfJyqHE1wbG7GOkkPfdq0bulCumEEm63nH_3Y",
+                    "short_id": "4a367f"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇴NO | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "185.125.171.13",
+            "server_port": 443,
+            "uuid": "a09373e2-e120-457d-9ec9-ea7fe8bedb52",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "partner.g2.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
