@@ -114,14 +114,13 @@
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 163",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+                "🇨🇦CA | 🟢 | vmess | @Hope_Net | 0",
                 "🇫🇷FR | 🟢 | vmess | @Hope_Net | 1",
-                "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 3",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 4",
-                "🇸🇪SE | 🟢 | vmess | @FreakConfig | 7",
-                "🇺🇸US | 🟢 | vmess | @kingofilter | 12",
-                "🇺🇸US | 🟢 | vmess | @kingofilter | 13",
+                "🇨🇦CA | 🟢 | vmess | @v2rayng_config_amin | 3",
+                "🇨🇦CA | 🟢 | vmess | @v2Line | 3",
+                "🇨🇦CA | 🟢 | vmess | @v2Line | 4",
+                "🇨🇦CA | 🟢 | vmess | @kingofilter | 12",
+                "🇨🇦CA | 🟢 | vmess | @kingofilter | 13",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 1"
             ]
         },
@@ -137,14 +136,13 @@
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 163",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+                "🇨🇦CA | 🟢 | vmess | @Hope_Net | 0",
                 "🇫🇷FR | 🟢 | vmess | @Hope_Net | 1",
-                "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 3",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 4",
-                "🇸🇪SE | 🟢 | vmess | @FreakConfig | 7",
-                "🇺🇸US | 🟢 | vmess | @kingofilter | 12",
-                "🇺🇸US | 🟢 | vmess | @kingofilter | 13",
+                "🇨🇦CA | 🟢 | vmess | @v2rayng_config_amin | 3",
+                "🇨🇦CA | 🟢 | vmess | @v2Line | 3",
+                "🇨🇦CA | 🟢 | vmess | @v2Line | 4",
+                "🇨🇦CA | 🟢 | vmess | @kingofilter | 12",
+                "🇨🇦CA | 🟢 | vmess | @kingofilter | 13",
                 "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -352,7 +350,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "🇨🇦CA | 🟢 | vmess | @Hope_Net | 0",
             "type": "vmess",
             "server": "104.19.47.20",
             "server_port": 8443,
@@ -403,7 +401,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
+            "tag": "🇨🇦CA | 🟢 | vmess | @v2rayng_config_amin | 3",
             "type": "vmess",
             "server": "505.outline-vpn.cloud",
             "server_port": 443,
@@ -437,7 +435,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 3",
+            "tag": "🇨🇦CA | 🟢 | vmess | @v2Line | 3",
             "type": "vmess",
             "server": "zula.ir",
             "server_port": 443,
@@ -471,7 +469,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 4",
+            "tag": "🇨🇦CA | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "172.67.175.56",
             "server_port": 443,
@@ -505,24 +503,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | vmess | @FreakConfig | 7",
-            "type": "vmess",
-            "server": "mysw.mahanocean.ir",
-            "server_port": 18667,
-            "uuid": "cac29f16-7340-4f89-a3c4-0783b058cf22",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @kingofilter | 12",
+            "tag": "🇨🇦CA | 🟢 | vmess | @kingofilter | 12",
             "type": "vmess",
             "server": "zula.ir",
             "server_port": 2096,
@@ -556,7 +537,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @kingofilter | 13",
+            "tag": "🇨🇦CA | 🟢 | vmess | @kingofilter | 13",
             "type": "vmess",
             "server": "198.41.193.181",
             "server_port": 80,
