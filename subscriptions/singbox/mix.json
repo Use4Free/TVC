@@ -380,7 +380,7 @@
                 "🇺🇦UA | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 3",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 0",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
                 "🇸🇪SE | 🔴 | vless | @Outline_Vpn | 1",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 2",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 4",
@@ -485,7 +485,7 @@
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 31",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 32",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 33",
-                "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 35",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 35",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 36",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 38",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 39",
@@ -527,7 +527,7 @@
                 "🇺🇸US | 🔴 | vless | @MTConfig | 11",
                 "🚩CF | 🔴 | vless | @V2RayTz | 0",
                 "🚩CF | 🔴 | vless | @V2RayTz | 1",
-                "TVCjtazwhqber",
+                "TVCbpfglhidba",
                 "🚩CF | 🔴 | vless | @V2RayTz | 3",
                 "🚩CF | 🔴 | vless | @V2RayTz | 4",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 5",
@@ -678,6 +678,7 @@
                 "🇸🇪SE | 🔴 | vless | @flyv2ray | 1",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 0",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 4",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 5",
                 "🇺🇸US | 🔴 | vless | @kiava | 0",
                 "🇺🇸US | 🔴 | vless | @kiava | 1",
                 "🇺🇸US | 🔴 | vless | @kiava | 2",
@@ -1034,7 +1035,7 @@
                 "🇺🇦UA | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 3",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 0",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
                 "🇸🇪SE | 🔴 | vless | @Outline_Vpn | 1",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 2",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 4",
@@ -1139,7 +1140,7 @@
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 31",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 32",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 33",
-                "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 35",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 35",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 36",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 38",
                 "🚩CF | 🔴 | vless | @ShadowProxy66 | 39",
@@ -1181,7 +1182,7 @@
                 "🇺🇸US | 🔴 | vless | @MTConfig | 11",
                 "🚩CF | 🔴 | vless | @V2RayTz | 0",
                 "🚩CF | 🔴 | vless | @V2RayTz | 1",
-                "TVCjtazwhqber",
+                "TVCbpfglhidba",
                 "🚩CF | 🔴 | vless | @V2RayTz | 3",
                 "🚩CF | 🔴 | vless | @V2RayTz | 4",
                 "🇸🇪SE | 🔴 | vless | @V2RayTz | 5",
@@ -1332,6 +1333,7 @@
                 "🇸🇪SE | 🔴 | vless | @flyv2ray | 1",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 0",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 4",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 5",
                 "🇺🇸US | 🔴 | vless | @kiava | 0",
                 "🇺🇸US | 🔴 | vless | @kiava | 1",
                 "🇺🇸US | 🔴 | vless | @kiava | 2",
@@ -7797,7 +7799,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
             "type": "vless",
             "server": "avval.ir",
             "server_port": 2053,
@@ -10483,7 +10485,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 35",
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 35",
             "type": "vless",
             "server": "www.visa.com.sg",
             "server_port": 8443,
@@ -11621,7 +11623,7 @@
             }
         },
         {
-            "tag": "TVCjtazwhqber",
+            "tag": "TVCbpfglhidba",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -15452,6 +15454,27 @@
             "server": "198.41.202.5",
             "server_port": 8880,
             "uuid": "b766b662-2c8a-4de6-99e0-dfd120a74975",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6",
+                "headers": {
+                    "Host": "198.41.202.5"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 5",
+            "type": "vless",
+            "server": "198.41.202.5",
+            "server_port": 8880,
+            "uuid": "57ac8853-e24b-43c6-9c01-bba5b5d968e6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
