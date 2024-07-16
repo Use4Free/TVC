@@ -151,7 +151,6 @@
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 7",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 9",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 11",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 13",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
@@ -333,6 +332,7 @@
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 4",
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 5",
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 9",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 7",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 1",
@@ -710,7 +710,6 @@
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 7",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 9",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 11",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 13",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
@@ -892,6 +891,7 @@
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 4",
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 5",
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 9",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 7",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 1",
@@ -2329,27 +2329,6 @@
             "server": "www.parsvds.ir",
             "server_port": 8080,
             "uuid": "e4360b65-e5d6-4e84-a65a-b0f324b65126",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/VPNCUSTOMIZE?ed=8080",
-                "headers": {
-                    "Host": "www.parsvds.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 13",
-            "type": "vless",
-            "server": "www.parsvds.ir",
-            "server_port": 8080,
-            "uuid": "Tel-VPNCUSTOMIZE",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6548,6 +6527,27 @@
                 "path": "\/JoinChanel-@proxyforopeta-telegram:@proxyforopeta-telegram-proxyforopeta-joinchanel@proxyforopeta.@proxyforopeta.join-@proxyforopeta.telegram:@proxyforopeta",
                 "headers": {
                     "Host": "proxyforopeta.bestgameir2.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 7",
+            "type": "vless",
+            "server": "www.parsvds.ir",
+            "server_port": 8080,
+            "uuid": "Tel-VPNCUSTOMIZE",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/VPNCUSTOMIZE?ed=8080",
+                "headers": {
+                    "Host": "www.parsvds.ir"
                 }
             }
         },
