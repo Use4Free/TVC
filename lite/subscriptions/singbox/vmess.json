@@ -109,8 +109,8 @@
                 "🇩🇪DE | 🟢 | vmess | @azadi_az_inja_migzare | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 18",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 11",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 9",
@@ -132,8 +132,8 @@
                 "🇩🇪DE | 🟢 | vmess | @azadi_az_inja_migzare | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 18",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🇩🇪DE | 🟢 | vmess | @ShadowProxy66 | 11",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 9",
@@ -219,7 +219,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 18",
+            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
             "type": "vmess",
             "server": "104.19.47.142",
             "server_port": 8080,
@@ -243,7 +243,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": "speed.cloudflare.com",
             "server_port": 80,
