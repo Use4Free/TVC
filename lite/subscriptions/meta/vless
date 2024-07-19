@@ -122,10 +122,10 @@ dns:
 proxies:
   - {"name":"🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 3","type":"vless","server":"zula.ir","port":80,"udp":false,"uuid":"903b9259-87d2-4a1a-9341-15788f825716","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@NIM_VPN_ir,@NIM_VPN_ir","headers":{"host":"asdwds.kolacghi.ir"}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 4","type":"vless","server":"zula.ir","port":80,"udp":false,"uuid":"c9b2518d-2723-4d8b-9cd5-f8dcf1b30d71","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@NIM_VPN_ir,@NIM_VPN_ir","headers":{"host":"asdwds.kolacghi.ir"}}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @VlessConfig | 16","type":"vless","server":"3.74.219.118","port":22222,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"telegram-channel-vlessconfig.sohala.uk","ws-opts":{"path":"/telegram-channel-vlessconfig-ws","headers":{"host":"telegram-channel-vlessconfig.sohala.uk"}}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @VlessConfig | 17","type":"vless","server":"52.29.137.95","port":22222,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"telegram-channel-vlessconfig.sohala.uk","ws-opts":{"path":"/telegram-channel-vlessconfig-ws","headers":{"host":"telegram-channel-vlessconfig.sohala.uk"}}}
-  - {"name":"🇸🇪SE | 🔴 | vless | @melov2ray | 4","type":"vless","server":"185.146.173.58","port":8080,"udp":false,"uuid":"8d864578-90e0-4a54-a474-1b190e150cae","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @melov2ray | 5","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"704f487c-89b7-4d03-b700-e57ecbbf78de","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melo/is/needed","headers":{"host":"ch1.dontbow.store."}}}
+  - {"name":"🇫🇷FR | 🔴 | vless | @VlessConfig | 16","type":"vless","server":"52.47.52.88","port":22222,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"telegram-channel-vlessconfig.sohala.uk","ws-opts":{"path":"/telegram-channel-vlessconfig-ws","headers":{"host":"telegram-channel-vlessconfig.sohala.uk"}}}
+  - {"name":"🇫🇷FR | 🔴 | vless | @VlessConfig | 17","type":"vless","server":"15.188.30.96","port":22222,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"telegram-channel-vlessconfig.sohala.uk","ws-opts":{"path":"/telegram-channel-vlessconfig-ws","headers":{"host":"telegram-channel-vlessconfig.sohala.uk"}}}
+  - {"name":"🇸🇪SE | 🔴 | vless | @melov2ray | 4","type":"vless","server":"185.146.173.58","port":8080,"udp":false,"uuid":"582a6210-2509-4a9a-ad77-3df532c89fa3","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇨🇦CA | 🔴 | vless | @melov2ray | 5","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"af308281-1c19-44a2-9a8a-e8a778509575","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melo/is/needed","headers":{"host":"ch1.dontbow.store."}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @V2pedia | 12","type":"vless","server":"zula.ir","port":80,"udp":false,"uuid":"d4717199-db4a-434c-b53b-d4d8e339ed1a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia?ed=2048","headers":{"host":"kubs.st1lol.ir."}}}
   - {"name":"🇸🇪SE | 🔴 | vless | @V2pedia | 13","type":"vless","server":"185.146.173.237","port":80,"udp":false,"uuid":"d4717199-db4a-434c-b53b-d4d8e339ed1a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia?ed=2048","headers":{"host":"kubs.st1lol.ir."}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @shh_proxy | 28","type":"vless","server":"www.speedtest.net","port":8080,"udp":false,"uuid":"d7e70e3d-f5bb-4510-bb42-bd06171f5b44","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy--shhPROXY--SHHproxy.ntherspeedtest.net."}}}
@@ -203,8 +203,8 @@ proxy-groups:
       - FALLBACK
       - '🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 3'
       - '🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 4'
-      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 16'
-      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 17'
+      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 16'
+      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 17'
       - '🇸🇪SE | 🔴 | vless | @melov2ray | 4'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 5'
       - '🇨🇦CA | 🔴 | vless | @V2pedia | 12'
@@ -284,8 +284,8 @@ proxy-groups:
     proxies:
       - '🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 3'
       - '🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 4'
-      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 16'
-      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 17'
+      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 16'
+      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 17'
       - '🇸🇪SE | 🔴 | vless | @melov2ray | 4'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 5'
       - '🇨🇦CA | 🔴 | vless | @V2pedia | 12'
@@ -364,8 +364,8 @@ proxy-groups:
     proxies:
       - '🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 3'
       - '🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 4'
-      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 16'
-      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 17'
+      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 16'
+      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 17'
       - '🇸🇪SE | 🔴 | vless | @melov2ray | 4'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 5'
       - '🇨🇦CA | 🔴 | vless | @V2pedia | 12'
