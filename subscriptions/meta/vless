@@ -298,7 +298,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 3","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"77c41047-a1d4-4682-9a20-29e24da6cb4c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 4","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"62f87825-d93f-448a-9b40-7c991f661dfa","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 6","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"adcea684-2a0f-4888-9256-bc7b514818c7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @UnlimitedDev | 7","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"1333101e-2858-485c-a173-2f45aa3cbc57","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 7","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"1333101e-2858-485c-a173-2f45aa3cbc57","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 8","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"e21c01a9-51fd-4176-ad61-1f2e0fedf190","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 9","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"2a093825-5348-4597-b9ce-02ddf2d8fe7a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 11","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"d1d0ec5f-fb1f-4373-8de6-6f44c9238697","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080","headers":{"host":"unlimiteddev-vpn.unlimiteddev.Community."}}}
@@ -696,7 +696,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 3'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 4'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 6'
-      - '🇨🇦CA | 🔴 | vless | @UnlimitedDev | 7'
+      - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 7'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 8'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 9'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 11'
@@ -1094,7 +1094,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 3'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 4'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 6'
-      - '🇨🇦CA | 🔴 | vless | @UnlimitedDev | 7'
+      - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 7'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 8'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 9'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 11'
@@ -1491,7 +1491,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 3'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 4'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 6'
-      - '🇨🇦CA | 🔴 | vless | @UnlimitedDev | 7'
+      - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 7'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 8'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 9'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 11'
