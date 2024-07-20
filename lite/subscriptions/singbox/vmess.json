@@ -109,7 +109,6 @@
                 "🇩🇪DE | 🟢 | vmess | @azadi_az_inja_migzare | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🇸🇪SE | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 11",
@@ -129,7 +128,6 @@
                 "🇩🇪DE | 🟢 | vmess | @azadi_az_inja_migzare | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🇸🇪SE | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 11",
@@ -210,30 +208,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 18",
-            "type": "vmess",
-            "server": "104.21.51.208",
-            "server_port": 80,
-            "uuid": "cb4fca5f-edf8-415b-aa8f-ac52f415296a",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/0fpZFB6IbpNptGAxAtI0QM",
-                "headers": {
-                    "Host": "104.21.51.208"
-                }
             }
         },
         {
