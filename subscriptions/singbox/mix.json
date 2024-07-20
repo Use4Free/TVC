@@ -157,11 +157,11 @@
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 9",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 11",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 13",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 5",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -873,11 +873,11 @@
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 9",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 11",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 13",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 5",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -2805,7 +2805,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -2826,7 +2826,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -2847,7 +2847,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -2868,7 +2868,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -2889,7 +2889,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
