@@ -127,13 +127,13 @@ proxies:
   - {"name":"🇸🇪SE | 🔴 | vless | @melov2ray | 4","type":"vless","server":"185.146.173.58","port":8080,"udp":false,"uuid":"582a6210-2509-4a9a-ad77-3df532c89fa3","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇨🇦CA | 🔴 | vless | @melov2ray | 5","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"af308281-1c19-44a2-9a8a-e8a778509575","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/melo/is/needed","headers":{"host":"ch1.dontbow.store."}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @frev2ray | 2","type":"vless","server":"www.parsvds.ir","port":8080,"udp":false,"uuid":"0b2f0dd1-248a-4f3c-b125-6609c52e98ba","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"VPNCUSTOMIZE?ed=8080","headers":{"host":"VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net."}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @shh_proxy | 28","type":"vless","server":"www.speedtest.net","port":8080,"udp":false,"uuid":"722a7c96-8aec-40aa-ab42-e1919b7b848c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy--shhPROXY--SHHproxy.ntherspeedtest.net."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @shh_proxy | 28","type":"vless","server":"www.speedtest.net","port":8080,"udp":false,"uuid":"722a7c96-8aec-40aa-ab42-e1919b7b848c","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy--shhPROXY--SHHproxy.ntherspeedtest.net."}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @shh_proxy | 29","type":"vless","server":"www.parsvds.ir","port":8080,"udp":false,"uuid":"8e307fc9-61f3-46ff-bf12-0ffdcb4d9e6f","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy-shhPROXY-SHHproxy.ntherspeedtest.net."}}}
   - {"name":"🇸🇪SE | 🔴 | vless | @Lockey_vpn | 18","type":"vless","server":"185.146.173.231","port":80,"udp":false,"uuid":"9ad2883c-1c39-4e42-8ec0-38abd3fa914e","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-V2","headers":{"host":"xn---ndu.ntjdjpdb--a-9wl9jqtr75a136V2raya8b97V2rajdk44yjwac23607hkhja2.My-Archive69.site."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 19","type":"vless","server":"198.41.206.124","port":80,"udp":false,"uuid":"9ad2883c-1c39-4e42-8ec0-38abd3fa914e","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-V2","headers":{"host":"xn---ndu.ntjdjpdb--a-9wl9jqtr75a136V2raya8b97V2rajdk44yjwac23607hkhja2.My-Archive69.site."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19","type":"vless","server":"198.41.206.124","port":80,"udp":false,"uuid":"9ad2883c-1c39-4e42-8ec0-38abd3fa914e","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-V2","headers":{"host":"xn---ndu.ntjdjpdb--a-9wl9jqtr75a136V2raya8b97V2rajdk44yjwac23607hkhja2.My-Archive69.site."}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @free_v2rayyy | 5","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"cb2cbbd9-7672-40f1-9a89-53f086493c7f","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-free-v2ryyy?ed=2048","headers":{"host":"6.www.speedtest.net.zula.ir.zemestanil.ir"}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @lightning6 | 16","type":"vless","server":"www.speedtest.net","port":2087,"udp":false,"uuid":"2b747f12-d559-452f-b038-eb72cf41f74e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"LiV2ry.lightning1.ir","ws-opts":{"path":"/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray?ed=2048","headers":{"host":"LiV2ry.lightning1.ir"}}}
-  - {"name":"🇨🇦CA | 🔴 | vless | @lightning6 | 17","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"e7c80f96-f63a-41e1-9fb8-eef182ed560f","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir."}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 16","type":"vless","server":"www.speedtest.net","port":2087,"udp":false,"uuid":"2b747f12-d559-452f-b038-eb72cf41f74e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"LiV2ry.lightning1.ir","ws-opts":{"path":"/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray?ed=2048","headers":{"host":"LiV2ry.lightning1.ir"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 17","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"e7c80f96-f63a-41e1-9fb8-eef182ed560f","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir."}}}
   - {"name":"🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13","type":"vless","server":"95.217.31.246","port":18929,"udp":true,"uuid":"4100d055-5857-44fb-9b7b-9d699dd4f347","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"testv6.tigervp.xyz","reality-opts":{"public-key":"rFZOWxVcsZn5--1yLku3SGglZ0Y2Ban0buZIN3-vFwU","short-id":"cfef326c"}}
   - {"name":"🇬🇧GB | 🔴 | vless | @DarkTeam_VPN | 2","type":"vless","server":"51.89.86.28","port":11240,"udp":false,"uuid":"2c8d518c-4d70-46b5-ac47-b6005ce536f3","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3","type":"vless","server":"51.195.74.34","port":50002,"udp":false,"uuid":"13cf86c8-66c9-471a-a24e-fdd8088373b2","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -205,13 +205,13 @@ proxy-groups:
       - '🇸🇪SE | 🔴 | vless | @melov2ray | 4'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 5'
       - '🇨🇦CA | 🔴 | vless | @frev2ray | 2'
-      - '🇨🇦CA | 🔴 | vless | @shh_proxy | 28'
+      - '🇺🇸US | 🔴 | vless | @shh_proxy | 28'
       - '🇨🇦CA | 🔴 | vless | @shh_proxy | 29'
       - '🇸🇪SE | 🔴 | vless | @Lockey_vpn | 18'
-      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 19'
+      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19'
       - '🇨🇦CA | 🔴 | vless | @free_v2rayyy | 5'
-      - '🇨🇦CA | 🔴 | vless | @lightning6 | 16'
-      - '🇨🇦CA | 🔴 | vless | @lightning6 | 17'
+      - '🇺🇸US | 🔴 | vless | @lightning6 | 16'
+      - '🇺🇸US | 🔴 | vless | @lightning6 | 17'
       - '🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13'
       - '🇬🇧GB | 🔴 | vless | @DarkTeam_VPN | 2'
       - '🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3'
@@ -283,13 +283,13 @@ proxy-groups:
       - '🇸🇪SE | 🔴 | vless | @melov2ray | 4'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 5'
       - '🇨🇦CA | 🔴 | vless | @frev2ray | 2'
-      - '🇨🇦CA | 🔴 | vless | @shh_proxy | 28'
+      - '🇺🇸US | 🔴 | vless | @shh_proxy | 28'
       - '🇨🇦CA | 🔴 | vless | @shh_proxy | 29'
       - '🇸🇪SE | 🔴 | vless | @Lockey_vpn | 18'
-      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 19'
+      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19'
       - '🇨🇦CA | 🔴 | vless | @free_v2rayyy | 5'
-      - '🇨🇦CA | 🔴 | vless | @lightning6 | 16'
-      - '🇨🇦CA | 🔴 | vless | @lightning6 | 17'
+      - '🇺🇸US | 🔴 | vless | @lightning6 | 16'
+      - '🇺🇸US | 🔴 | vless | @lightning6 | 17'
       - '🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13'
       - '🇬🇧GB | 🔴 | vless | @DarkTeam_VPN | 2'
       - '🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3'
@@ -360,13 +360,13 @@ proxy-groups:
       - '🇸🇪SE | 🔴 | vless | @melov2ray | 4'
       - '🇨🇦CA | 🔴 | vless | @melov2ray | 5'
       - '🇨🇦CA | 🔴 | vless | @frev2ray | 2'
-      - '🇨🇦CA | 🔴 | vless | @shh_proxy | 28'
+      - '🇺🇸US | 🔴 | vless | @shh_proxy | 28'
       - '🇨🇦CA | 🔴 | vless | @shh_proxy | 29'
       - '🇸🇪SE | 🔴 | vless | @Lockey_vpn | 18'
-      - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 19'
+      - '🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19'
       - '🇨🇦CA | 🔴 | vless | @free_v2rayyy | 5'
-      - '🇨🇦CA | 🔴 | vless | @lightning6 | 16'
-      - '🇨🇦CA | 🔴 | vless | @lightning6 | 17'
+      - '🇺🇸US | 🔴 | vless | @lightning6 | 16'
+      - '🇺🇸US | 🔴 | vless | @lightning6 | 17'
       - '🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13'
       - '🇬🇧GB | 🔴 | vless | @DarkTeam_VPN | 2'
       - '🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3'
