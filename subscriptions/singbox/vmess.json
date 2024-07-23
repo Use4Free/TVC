@@ -127,8 +127,8 @@
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 9",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 14",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 1",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 8",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 154",
@@ -185,8 +185,8 @@
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 9",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 14",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 1",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 8",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 154",
@@ -685,7 +685,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
+            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": "lin0502.hwcar.sbs",
             "server_port": 443,
@@ -719,7 +719,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
+            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 5",
             "type": "vmess",
             "server": "cfcdn3.sanfencdn9.com",
             "server_port": 2052,

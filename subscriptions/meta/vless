@@ -120,7 +120,7 @@ dns:
     'RULE-SET:ir,ircidr,geoip:ir,+.ir,+.bonyan.co': ["217.218.155.155", "217.218.127.127", "https://dns.403.online/dns-query", "https://dns.shecan.ir/dns-query"]
 
 proxies:
-  - {"name":"🇨🇦CA | 🔴 | vless | @EliV2ray | 14","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"1d86846c-5a27-43c8-8981-57bb75c82195","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"tymks.dfonni.info","ws-opts":{"path":"/paradise","headers":{"host":"tymks.dfonni.info"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @EliV2ray | 14","type":"vless","server":"www.speedtest.net","port":443,"udp":false,"uuid":"1d86846c-5a27-43c8-8981-57bb75c82195","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"tymks.dfonni.info","ws-opts":{"path":"/paradise","headers":{"host":"tymks.dfonni.info"}}}
   - {"name":"🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 0","type":"vless","server":"zula.ir","port":80,"udp":false,"uuid":"6d20fbb4-332c-4494-b5dc-0ea1d589930e","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@NIM_VPN_ir,@NIM_VPN_ir","headers":{"host":"asdwds.kolacghi.ir"}}}
   - {"name":"🇮🇪IE | 🔴 | vless | @VlessConfig | 0","type":"vless","server":"54.220.1.88","port":22222,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"telegram-channel-vlessconfig.sohala.uk","ws-opts":{"path":"/telegram-channel-vlessconfig-ws","headers":{"host":"telegram-channel-vlessconfig.sohala.uk"}}}
   - {"name":"🇮🇪IE | 🔴 | vless | @VlessConfig | 1","type":"vless","server":"52.213.6.59","port":22222,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"telegram-channel-vlessconfig.sohala.uk","ws-opts":{"path":"/telegram-channel-vlessconfig-ws","headers":{"host":"telegram-channel-vlessconfig.sohala.uk"}}}
@@ -234,22 +234,22 @@ proxies:
   - {"name":"🚩CF | 🔴 | vless | @Outline_Vpn | 13","type":"vless","server":"104.18.1.125","port":2082,"udp":false,"uuid":"416f18ec-11f3-4648-9693-8c6480d0662d","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg"}}}
   - {"name":"🚩CF | 🔴 | vless | @Outline_Vpn | 16","type":"vless","server":"104.16.181.38","port":443,"udp":false,"uuid":"7f035a95-4b51-4e0b-8995-59864a9cde22","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"MSdOnoR.pagEs.dEV","ws-opts":{"path":"/R5lApEWHnBpYI2jQ?ed=2560","headers":{"host":"mSDONOr.Pages.dEv"}}}
   - {"name":"🚩CF | 🔴 | vless | @Outline_Vpn | 17","type":"vless","server":"188.114.96.3","port":443,"udp":false,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"viEEzer-pANeL.paGES.DEv","ws-opts":{"path":"/HRj71tnRkPZV60Ea/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560","headers":{"host":"vIeEZEr-PaNeL.PAGes.dev"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 138","type":"vless","server":"www.parsvds.ir","port":8080,"udp":false,"uuid":"99a22df0-4ceb-4a86-aae9-db1a69b0adb8","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy-shhPROXY-SHHproxy.ntherspeedtest.net."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 138","type":"vless","server":"www.parsvds.ir","port":8080,"udp":false,"uuid":"99a22df0-4ceb-4a86-aae9-db1a69b0adb8","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy-shhPROXY-SHHproxy.ntherspeedtest.net."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 139","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"2079ecde-938d-4c45-bf6d-a43de1b3993d","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2048","headers":{"host":"www.speedtest.net.xn--fhq0la447aac5504dea701axr1g.39.buybikeshop.COM."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 140","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"2079ecde-938d-4c45-bf6d-a43de1b3993d","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2048","headers":{"host":"www.speedtest.net.xn--fhq0la447aac5504dea701axr1g.23.buybikeshop.COM."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 140","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"2079ecde-938d-4c45-bf6d-a43de1b3993d","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2048","headers":{"host":"www.speedtest.net.xn--fhq0la447aac5504dea701axr1g.23.buybikeshop.COM."}}}
   - {"name":"🚩CF | 🔴 | vless | @prrofile_purple | 141","type":"vless","server":"104.21.68.89","port":8080,"udp":false,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/rIxXvkvOSpuNSBWZ/OC4yMTkuNDIuNzI=?ed=2560","headers":{"host":"ExTeRnaLNET.EXtErnAL-NEt.woRKeRs.DeV"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 142","type":"vless","server":"www.parsvds.ir","port":8080,"udp":false,"uuid":"81e0a146-add8-44aa-83d6-b1417d1b4f7b","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy-shhPROXY-SHHproxy.ntherspeedtest.net."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 142","type":"vless","server":"www.parsvds.ir","port":8080,"udp":false,"uuid":"81e0a146-add8-44aa-83d6-b1417d1b4f7b","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy-shhPROXY-SHHproxy.ntherspeedtest.net."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 145","type":"vless","server":"104.31.16.95","port":8080,"udp":false,"uuid":"c9e512cd-62ad-4064-9014-878477ec2a51","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"ftp.debian.org.www.speedtest.net.dnschecker.heydasgermanyvip.name.ng."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 146","type":"vless","server":"zula.ir","port":80,"udp":false,"uuid":"d3d92bd3-62bc-4ed2-a820-9e97a09b50f1","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/join-telegram-AfV2ray?ed=2048","headers":{"host":"www.roghanali.ir."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 148","type":"vless","server":"zula.ir","port":2095,"udp":false,"uuid":"2c440bc3-a698-4815-b344-4a3dcf798dff","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@V2RAXX?ed=1024","headers":{"host":"WwW.vaRzesh3.Com.Ftp.debian.Org.Content.tabnak.org"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 149","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"37fde5fb-038f-4fbf-93b0-48f37d61e776","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/join-telegram-AfV2ray?ed=2048","headers":{"host":"www.af.80V2ray.zula.ir.roghanali.ir."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 146","type":"vless","server":"zula.ir","port":80,"udp":false,"uuid":"d3d92bd3-62bc-4ed2-a820-9e97a09b50f1","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/join-telegram-AfV2ray?ed=2048","headers":{"host":"www.roghanali.ir."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 148","type":"vless","server":"zula.ir","port":2095,"udp":false,"uuid":"2c440bc3-a698-4815-b344-4a3dcf798dff","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@V2RAXX?ed=1024","headers":{"host":"WwW.vaRzesh3.Com.Ftp.debian.Org.Content.tabnak.org"}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 149","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"37fde5fb-038f-4fbf-93b0-48f37d61e776","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/join-telegram-AfV2ray?ed=2048","headers":{"host":"www.af.80V2ray.zula.ir.roghanali.ir."}}}
   - {"name":"🚩CF | 🔴 | vless | @prrofile_purple | 151","type":"vless","server":"172.66.47.2","port":2096,"udp":false,"uuid":"3fa4c645-f6a7-4a02-85ee-7289530a6d1e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"fala.zafarinoco.ir","ws-opts":{"path":"/","headers":{"host":"fala.zafarinoco.ir"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 153","type":"vless","server":"104.31.16.85","port":80,"udp":false,"uuid":"4307454c-12a4-4834-a925-ba9371c0eade","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/join-telegram-afV2ray","headers":{"host":"www.an.80V2ray.zula.ir.roghanali.ir."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 156","type":"vless","server":"www.parsvds.ir","port":80,"udp":false,"uuid":"41c18739-4595-4b14-8efe-a639a8e8f429","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-configMs?ed=2048","headers":{"host":"5.www.speedtest.net.zula.ir.zemestanil.ir"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 157","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"dbb249dd-f213-48e7-a50f-2faff31d9dfd","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 158","type":"vless","server":"www.parsvds.ir","port":8080,"udp":false,"uuid":"169c5a68-9d6a-4129-b4f4-5a0089397ab0","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"VPNCUSTOMIZE?ed=8080","headers":{"host":"VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 153","type":"vless","server":"104.31.16.85","port":80,"udp":false,"uuid":"4307454c-12a4-4834-a925-ba9371c0eade","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/join-telegram-afV2ray","headers":{"host":"www.an.80V2ray.zula.ir.roghanali.ir."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 156","type":"vless","server":"www.parsvds.ir","port":80,"udp":false,"uuid":"41c18739-4595-4b14-8efe-a639a8e8f429","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-configMs?ed=2048","headers":{"host":"5.www.speedtest.net.zula.ir.zemestanil.ir"}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 157","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"dbb249dd-f213-48e7-a50f-2faff31d9dfd","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 158","type":"vless","server":"www.parsvds.ir","port":8080,"udp":false,"uuid":"169c5a68-9d6a-4129-b4f4-5a0089397ab0","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"VPNCUSTOMIZE?ed=8080","headers":{"host":"VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net."}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @prrofile_purple | 161","type":"vless","server":"31.7.78.80","port":46034,"udp":false,"uuid":"3fa4c645-f6a7-4a02-85ee-7289530a6d1e","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @prrofile_purple | 165","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"59484dc0-17f2-47bd-a951-c2e938ab67af","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @prrofile_purple | 165","type":"vless","server":"zula.ir","port":8080,"udp":false,"uuid":"59484dc0-17f2-47bd-a951-c2e938ab67af","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"SHHPROXY?ed=8080","headers":{"host":"SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net."}}}
   - {"name":"🚩CF | 🔴 | vless | @prrofile_purple | 174","type":"vless","server":"162.159.129.17","port":80,"udp":false,"uuid":"7a5a4624-df8d-4955-bccc-b3fa6161411f","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/T,E,L,E,G,R,A,M,X,V,2,R,A,Y?ed=2560","headers":{"host":"rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.salf101.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net."}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @prrofile_purple | 175","type":"vless","server":"188.245.82.165","port":8080,"udp":false,"uuid":"36c038c9-4afd-4bf1-91f9-a80669fb8b9c","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @customv2ray | 6","type":"vless","server":"104.26.14.16","port":2053,"udp":false,"uuid":"cd8002d9-e8fd-4411-8bb6-fc80310ff81d","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"vip1-romax-tiktok.hsjsak.ir","ws-opts":{"path":"/","headers":{"host":"vip1-romax-tiktok.hsjsak.ir"}}}
@@ -338,9 +338,9 @@ proxies:
   - {"name":"🚩CF | 🔴 | vless | @proxyymeliii | 14","type":"vless","server":"162.159.36.66","port":443,"udp":false,"uuid":"b0138d55-a493-4dc3-9932-c6f0391707c1","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @proxyymeliii | 15","type":"vless","server":"discord.gg","port":2087,"udp":false,"uuid":"475f0e22-770d-4605-b333-f4783a6a0a1d","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇨🇷CR | 🔴 | vless | @proxyymeliii | 16","type":"vless","server":"all.shhproxy.cfd","port":443,"udp":false,"uuid":"d8ae039a-cdee-40a0-b19d-99d9d8dc6671","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🚩CF | 🔴 | vless | @v2ray1_ng | 1","type":"vless","server":"172.66.46.251","port":443,"udp":false,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"bBF9c21A.tECHNeTbpb.paGEs.Dev","ws-opts":{"path":"/telegram-@v2ray_alpha/?ed=2560","headers":{"host":"bBF9c21A.tECHNeTbpb.paGEs.Dev"}}}
-  - {"name":"🚩CF | 🔴 | vless | @v2ray1_ng | 11","type":"vless","server":"104.18.5.2","port":2096,"udp":false,"uuid":"85b94f20-e563-498b-9d4b-a75438a51101","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"VFIvE-teLeGram.PAGEs.Dev","ws-opts":{"path":"/5fz4m1ggihzpkyya?ed=2560","headers":{"host":"VFIvE-teLeGram.PAGEs.Dev"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @v2ray1_ng | 12","type":"vless","server":"www.visa.com","port":443,"udp":false,"uuid":"c1978266-958c-4aa3-ba34-7eacac75aca1","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"bpb-worker-panel3.pages.dev","ws-opts":{"path":"/?ed=2560","headers":{"host":"bpb-worker-panel3.pages.dev"}}}
+  - {"name":"🚩CF | 🔴 | vless | @v2ray1_ng | 0","type":"vless","server":"104.18.5.2","port":2096,"udp":false,"uuid":"85b94f20-e563-498b-9d4b-a75438a51101","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"VFIvE-teLeGram.PAGEs.Dev","ws-opts":{"path":"/5fz4m1ggihzpkyya?ed=2560","headers":{"host":"VFIvE-teLeGram.PAGEs.Dev"}}}
+  - {"name":"🚩CF | 🔴 | vless | @v2ray1_ng | 2","type":"vless","server":"172.66.46.251","port":443,"udp":false,"uuid":"89b3cbba-e6ac-485a-9481-976a0415eab9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"bBF9c21A.tECHNeTbpb.paGEs.Dev","ws-opts":{"path":"/telegram-@v2ray_alpha/?ed=2560","headers":{"host":"bBF9c21A.tECHNeTbpb.paGEs.Dev"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @v2ray1_ng | 13","type":"vless","server":"www.visa.com","port":443,"udp":false,"uuid":"c1978266-958c-4aa3-ba34-7eacac75aca1","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"bpb-worker-panel3.pages.dev","ws-opts":{"path":"/?ed=2560","headers":{"host":"bpb-worker-panel3.pages.dev"}}}
   - {"name":"🚩CF | 🔴 | vless | @vless_vmess | 3","type":"vless","server":"104.16.17.195","port":443,"udp":false,"uuid":"d9eb0df3-3190-4447-86b6-656fe5ff1119","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"mmdv2.pages.dev","ws-opts":{"path":"/?ed=2048","headers":{"host":"mmdv2.pages.dev"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @vless_vmess | 4","type":"vless","server":"188.121.118.76","port":803,"udp":false,"uuid":"1ce8c07c-1531-4d40-a776-e989580fbd40","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/"}}
   - {"name":"🚩CF | 🔴 | vless | @vless_vmess | 5","type":"vless","server":"104.26.10.138","port":8080,"udp":false,"uuid":"658a5fce-391b-46ed-bac2-0af9772ec953","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/FIRELINKVPNNN","headers":{"host":"sbp.unironically.ir"}}}
@@ -526,7 +526,7 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 14'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 14'
       - '🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 0'
       - '🇮🇪IE | 🔴 | vless | @VlessConfig | 0'
       - '🇮🇪IE | 🔴 | vless | @VlessConfig | 1'
@@ -640,22 +640,22 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @Outline_Vpn | 13'
       - '🚩CF | 🔴 | vless | @Outline_Vpn | 16'
       - '🚩CF | 🔴 | vless | @Outline_Vpn | 17'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 138'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 138'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 139'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 140'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 140'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 141'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 142'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 142'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 145'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 146'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 148'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 149'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 146'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 148'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 149'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 151'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 153'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 156'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 157'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 158'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 153'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 156'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 157'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 158'
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 161'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 165'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 165'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 174'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 175'
       - '🚩CF | 🔴 | vless | @customv2ray | 6'
@@ -744,9 +744,9 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @proxyymeliii | 14'
       - '🇺🇸US | 🔴 | vless | @proxyymeliii | 15'
       - '🇨🇷CR | 🔴 | vless | @proxyymeliii | 16'
-      - '🚩CF | 🔴 | vless | @v2ray1_ng | 1'
-      - '🚩CF | 🔴 | vless | @v2ray1_ng | 11'
-      - '🇺🇸US | 🔴 | vless | @v2ray1_ng | 12'
+      - '🚩CF | 🔴 | vless | @v2ray1_ng | 0'
+      - '🚩CF | 🔴 | vless | @v2ray1_ng | 2'
+      - '🇺🇸US | 🔴 | vless | @v2ray1_ng | 13'
       - '🚩CF | 🔴 | vless | @vless_vmess | 3'
       - '🇮🇷IR | 🔴 | vless | @vless_vmess | 4'
       - '🚩CF | 🔴 | vless | @vless_vmess | 5'
@@ -932,7 +932,7 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 14'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 14'
       - '🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 0'
       - '🇮🇪IE | 🔴 | vless | @VlessConfig | 0'
       - '🇮🇪IE | 🔴 | vless | @VlessConfig | 1'
@@ -1046,22 +1046,22 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @Outline_Vpn | 13'
       - '🚩CF | 🔴 | vless | @Outline_Vpn | 16'
       - '🚩CF | 🔴 | vless | @Outline_Vpn | 17'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 138'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 138'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 139'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 140'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 140'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 141'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 142'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 142'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 145'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 146'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 148'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 149'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 146'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 148'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 149'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 151'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 153'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 156'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 157'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 158'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 153'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 156'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 157'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 158'
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 161'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 165'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 165'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 174'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 175'
       - '🚩CF | 🔴 | vless | @customv2ray | 6'
@@ -1150,9 +1150,9 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @proxyymeliii | 14'
       - '🇺🇸US | 🔴 | vless | @proxyymeliii | 15'
       - '🇨🇷CR | 🔴 | vless | @proxyymeliii | 16'
-      - '🚩CF | 🔴 | vless | @v2ray1_ng | 1'
-      - '🚩CF | 🔴 | vless | @v2ray1_ng | 11'
-      - '🇺🇸US | 🔴 | vless | @v2ray1_ng | 12'
+      - '🚩CF | 🔴 | vless | @v2ray1_ng | 0'
+      - '🚩CF | 🔴 | vless | @v2ray1_ng | 2'
+      - '🇺🇸US | 🔴 | vless | @v2ray1_ng | 13'
       - '🚩CF | 🔴 | vless | @vless_vmess | 3'
       - '🇮🇷IR | 🔴 | vless | @vless_vmess | 4'
       - '🚩CF | 🔴 | vless | @vless_vmess | 5'
@@ -1337,7 +1337,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '🇨🇦CA | 🔴 | vless | @EliV2ray | 14'
+      - '🇺🇸US | 🔴 | vless | @EliV2ray | 14'
       - '🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 0'
       - '🇮🇪IE | 🔴 | vless | @VlessConfig | 0'
       - '🇮🇪IE | 🔴 | vless | @VlessConfig | 1'
@@ -1451,22 +1451,22 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @Outline_Vpn | 13'
       - '🚩CF | 🔴 | vless | @Outline_Vpn | 16'
       - '🚩CF | 🔴 | vless | @Outline_Vpn | 17'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 138'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 138'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 139'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 140'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 140'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 141'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 142'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 142'
       - '🇺🇸US | 🔴 | vless | @prrofile_purple | 145'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 146'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 148'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 149'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 146'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 148'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 149'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 151'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 153'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 156'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 157'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 158'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 153'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 156'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 157'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 158'
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 161'
-      - '🇺🇸US | 🔴 | vless | @prrofile_purple | 165'
+      - '🇨🇦CA | 🔴 | vless | @prrofile_purple | 165'
       - '🚩CF | 🔴 | vless | @prrofile_purple | 174'
       - '🇩🇪DE | 🔴 | vless | @prrofile_purple | 175'
       - '🚩CF | 🔴 | vless | @customv2ray | 6'
@@ -1555,9 +1555,9 @@ proxy-groups:
       - '🚩CF | 🔴 | vless | @proxyymeliii | 14'
       - '🇺🇸US | 🔴 | vless | @proxyymeliii | 15'
       - '🇨🇷CR | 🔴 | vless | @proxyymeliii | 16'
-      - '🚩CF | 🔴 | vless | @v2ray1_ng | 1'
-      - '🚩CF | 🔴 | vless | @v2ray1_ng | 11'
-      - '🇺🇸US | 🔴 | vless | @v2ray1_ng | 12'
+      - '🚩CF | 🔴 | vless | @v2ray1_ng | 0'
+      - '🚩CF | 🔴 | vless | @v2ray1_ng | 2'
+      - '🇺🇸US | 🔴 | vless | @v2ray1_ng | 13'
       - '🚩CF | 🔴 | vless | @vless_vmess | 3'
       - '🇮🇷IR | 🔴 | vless | @vless_vmess | 4'
       - '🚩CF | 🔴 | vless | @vless_vmess | 5'
