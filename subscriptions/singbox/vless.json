@@ -108,14 +108,14 @@
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | @EliV2ray | 0",
                 "🇩🇪DE | 🟢 | vless | @EliV2ray | 2",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 4",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 4",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 5",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 8",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 13",
                 "🇸🇪SE | 🔴 | vless | @EliV2ray | 16",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 17",
                 "🚩CF | 🔴 | vless | @Parsashonam | 1",
                 "🚩CF | 🔴 | vless | @Parsashonam | 2",
                 "🚩CF | 🔴 | vless | @Parsashonam | 4",
@@ -152,12 +152,12 @@
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 16",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 17",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 19",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 7",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 6",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 11",
@@ -593,12 +593,12 @@
                 "🚩CF | 🔴 | vless | @FreakConfig | 3",
                 "🚩CF | 🔴 | vless | @FreakConfig | 6",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 7",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 9",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 13",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 14",
                 "🇸🇪SE | 🔴 | vless | @flyv2ray | 3",
                 "❔XX | 🔴 | vless | @flyv2ray | 9",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
+                "❔XX | 🔴 | vless | @flyv2ray | 11",
                 "🇸🇪SE | 🔴 | vless | @flyv2ray | 12",
                 "🚩CF | 🔴 | vless | @iP_CF | 0",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 7",
@@ -681,14 +681,14 @@
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | @EliV2ray | 0",
                 "🇩🇪DE | 🟢 | vless | @EliV2ray | 2",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 4",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 4",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 5",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 7",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 8",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 13",
                 "🇸🇪SE | 🔴 | vless | @EliV2ray | 16",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 17",
                 "🚩CF | 🔴 | vless | @Parsashonam | 1",
                 "🚩CF | 🔴 | vless | @Parsashonam | 2",
                 "🚩CF | 🔴 | vless | @Parsashonam | 4",
@@ -725,12 +725,12 @@
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 16",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 17",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 19",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 7",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 6",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 11",
@@ -1166,12 +1166,12 @@
                 "🚩CF | 🔴 | vless | @FreakConfig | 3",
                 "🚩CF | 🔴 | vless | @FreakConfig | 6",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 7",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 9",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 9",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 13",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 14",
                 "🇸🇪SE | 🔴 | vless | @flyv2ray | 3",
                 "❔XX | 🔴 | vless | @flyv2ray | 9",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
+                "❔XX | 🔴 | vless | @flyv2ray | 11",
                 "🇸🇪SE | 🔴 | vless | @flyv2ray | 12",
                 "🚩CF | 🔴 | vless | @iP_CF | 0",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 7",
@@ -1333,7 +1333,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1396,7 +1396,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1417,7 +1417,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -1480,7 +1480,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -2447,7 +2447,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 0",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -2489,7 +2489,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -2510,7 +2510,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -2531,7 +2531,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -2552,7 +2552,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -13022,7 +13022,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 9",
+            "tag": "🇸🇪SE | 🔴 | vless | @FreakConfig | 9",
             "type": "vless",
             "server": "nooneisalone.devminil.ir",
             "server_port": 2096,
@@ -13130,7 +13130,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
+            "tag": "❔XX | 🔴 | vless | @flyv2ray | 11",
             "type": "vless",
             "server": "proxyopeta.liongame2.ir",
             "server_port": 2083,
