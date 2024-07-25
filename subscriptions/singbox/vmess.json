@@ -129,8 +129,8 @@
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 142",
-                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 144",
+                "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 142",
+                "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 144",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 171",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 172",
                 "🇺🇸US | 🟢 | vmess | @customv2ray | 5",
@@ -188,8 +188,8 @@
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 142",
-                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 144",
+                "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 142",
+                "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 144",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 171",
                 "🇺🇸US | 🟢 | vmess | @prrofile_purple | 172",
                 "🇺🇸US | 🟢 | vmess | @customv2ray | 5",
@@ -769,7 +769,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @prrofile_purple | 142",
+            "tag": "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 142",
             "type": "vmess",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -793,7 +793,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @prrofile_purple | 144",
+            "tag": "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 144",
             "type": "vmess",
             "server": "www.speedtest.net",
             "server_port": 80,
