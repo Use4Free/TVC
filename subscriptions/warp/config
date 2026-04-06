@@ -4,5 +4,5 @@
 #support-url: https://t.me/v2raycollector
 #profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
 
-warp://162.159.193.36:1387?ifp=5-10#WiW-🟢&&detour=warp://162.159.192.54:1387?ifp=5-10#WARP-🟢
-warp://162.159.192.54:1387?ifp=5-10#WiW-🔵&&detour=warp://162.159.193.36:1387?ifp=5-10#WARP-🔵
+warp://162.159.192.25:1070?ifp=5-10#WiW-🟢&&detour=warp://162.159.195.118:1070?ifp=5-10#WARP-🟢
+warp://162.159.195.118:1070?ifp=5-10#WiW-🔵&&detour=warp://162.159.192.25:1070?ifp=5-10#WARP-🔵
